@@ -1,0 +1,325 @@
+"","X","rgn_id","FMI","Country","derivation","year","spi","rgn_name","r0_label","r1_label","r2_label","fmi_pred_r2","fmi_pred_r1","gapfilled","method"
+"1",1,"82",0.552767541,"Albania","GAP",2018,0.717666667,"Albania","World","Europe","Southern Europe",0.554862096838107,0.637468938538145,"0",NA
+"2",2,"84",0.624891929,"Algeria","GAP",2018,0.668325,"Algeria","World","Africa","Northern Africa",0.623196798575211,0.632715843387498,"0",NA
+"3",3,"151",0.672005127,"American Samoa","GAP",2018,0.805489466,"American Samoa","World","Oceania","Polynesia",0.676437495830378,0.674596330903501,"0",NA
+"4",4,"26",0.356622287,"Andaman and Nicobar","GAP",2018,0.636000159,"Andaman and Nicobar","World","Asia","South-Eastern Asia",0.356652673253495,0.411227285425622,"0",NA
+"5",5,"200",0.292914029,"Angola","GAP",2018,0.391016667,"Angola","World","Africa","Middle Africa",0.295205041699906,0.400587537231789,"0",NA
+"6",6,"118",0.469759979,"Anguilla","GAP",2018,0.790250152,"Anguilla","World","Latin America and the Caribbean","Caribbean",0.472586271141748,0.54183459889425,"0",NA
+"7",7,"120",0.423187995,"Antigua & Barbuda","GAP",2018,0.738180148,"Antigua and Barbuda","World","Latin America and the Caribbean","Caribbean",0.427340317914212,0.498248018933665,"0",NA
+"8",8,"172",0.694,"Argentina","FMI",2018,0.749841667,"Argentina","World","Latin America and the Caribbean","South America",0.568119554872647,0.508009603172364,"0",NA
+"9",9,"250",0.507618376,"Aruba","GAP",2018,0.832577893,"Aruba","World","Latin America and the Caribbean","Caribbean",0.50936673671485,0.57726615883128,"0",NA
+"10",10,"85",0.796185135,"Ascension","GAP",2018,0.848794546,"Ascension","World","Europe","Northern Europe",0.798663333386526,0.747233012746693,"0",NA
+"11",11,"16",0.815911793,"Australia","GAP",2018,0.883241667,"Australia","World","Oceania","Australia and New Zealand",0.816110614062914,0.739680876047725,"0",NA
+"12",12,"55",0.643817191,"Azores","GAP",2018,0.819465114,"Azores","World","Europe","Southern Europe",0.643319316307455,0.72268203262642,"0",NA
+"13",13,"110",0.329,"Bahamas","FMI",2018,0.755441823,"Bahamas","World","Latin America and the Caribbean","Caribbean",0.442339758660922,0.51269736250662,"0",NA
+"14",14,"52",0.449194033,"Bahrain","GAP",2018,0.691367849,"Bahrain","World","Asia","Western Asia",0.450197958756225,0.457574281047476,"0",NA
+"15",15,"204",0.415,"Bangladesh","FMI",2018,0.521783333,"Bangladesh","World","Asia","Southern Asia",0.402906431405444,0.315619057331513,"0",NA
+"16",16,"124",0.261,"Barbados","FMI",2018,0.756891667,"Barbados","World","Latin America and the Caribbean","Caribbean",0.443599592898907,0.513910992938382,"0",NA
+"17",17,"59",0.658662107,"Belgium","GAP",2018,0.873941667,"Belgium","World","Europe","Western Europe",0.658613506436289,0.768283078351547,"0",NA
+"18",18,"164",0.587,"Belize","FMI",2018,0.572805835,"Belize","World","Latin America and the Caribbean","Central America",0.531095940573632,0.359817057472604,"0",NA
+"19",19,"99",0.512840964,"Benin","GAP",2018,0.495558333,"Benin","World","Africa","Western Africa",0.512673491081965,0.488096915650922,"0",NA
+"20",20,"108",0.485360677,"Bermuda","GAP",2018,0.807692578,"Bermuda","World","Latin America and the Caribbean","Caribbean",0.48774277450923,0.556435244892963,"0",NA
+"21",21,"245",0.454022688,"Bonaire","GAP",2018,0.772655007,"Bonaire","World","Latin America and the Caribbean","Caribbean",0.457297063410908,0.527106115399979,"0",NA
+"22",22,"232",0.508272399,"Bosnia & Herzegovina","GAP",2018,0.667918685,"Bosnia and Herzegovina","World","Europe","Southern Europe",0.511633852286094,0.595826068771499,"0",NA
+"23",23,"171",0.251,"Brazil","FMI",2018,0.727258333,"Brazil","World","Latin America and the Caribbean","South America",0.548495886822116,0.489105623576595,"0",NA
+"24",24,"38",0.66916209,"British Indian Ocean Territory","GAP",2018,0.822441312,"British Indian Ocean Territory","World","Asia","Southern Asia",0.664161584282318,0.567292804897796,"0",NA
+"25",25,"117",0.493314191,"British Virgin Islands","GAP",2018,0.816585038,"British Virgin Islands","World","Latin America and the Caribbean","Caribbean",0.495469830363455,0.563878914742428,"0",NA
+"26",26,"247",0.437699969,"Brunei","GAP",2018,0.726649404,"Brunei","World","Asia","South-Eastern Asia",0.435421852902136,0.487107643828498,"0",NA
+"27",27,"71",0.892685779,"Bulgaria","GAP",2018,0.762741667,"Bulgaria","World","Europe","Eastern Europe",0.892180314989277,0.675200164595346,"0",NA
+"28",28,"24",0.21267415,"Cambodia","GAP",2018,0.475058333,"Cambodia","World","Asia","South-Eastern Asia",0.216803128944833,0.276506654946095,"0",NA
+"29",29,"197",0.351333974,"Cameroon","GAP",2018,0.456333333,"Cameroon","World","Africa","Middle Africa",0.351961611467302,0.455262587484672,"0",NA
+"30",30,"218",0.834,"Canada","FMI",2018,0.886208333,"Canada","World","Americas","Northern America",0.899103859193947,0.897761676807551,"0",NA
+"31",31,"58",0.618453223,"Canary Islands","GAP",2018,0.791106823,"Canary Islands","World","Europe","Southern Europe",0.618677530065248,0.698943971876184,"0",NA
+"32",32,"56",0.675638671,"Cape Verde","GAP",2018,0.677575,"Cape Verde","World","Africa","Western Africa",0.670835906466339,0.640458801591139,"0",NA
+"33",33,"113",0.454615295,"Cayman Islands","GAP",2018,0.773317574,"Cayman Islands","World","Latin America and the Caribbean","Caribbean",0.457872797484063,0.527660734706802,"0",NA
+"34",34,"224",0.706,"Chile","FMI",2018,0.806091667,"Chile","World","Latin America and the Caribbean","South America",0.61699769340801,0.555095159816125,"0",NA
+"35",35,"209",0.37,"China","FMI",2018,0.645741667,"China","World","Asia","Eastern Asia",0.420441137293638,0.419381673456372,"0",NA
+"36",36,"2",0.824746299,"Christmas Island","GAP",2018,0.893119124,"Christmas Island","World","Oceania","Australia and New Zealand",0.824693577825102,0.747949063800078,"0",NA
+"37",37,"1",0.824746299,"Cocos Islands","GAP",2018,0.893119124,"Cocos Islands","World","Oceania","Australia and New Zealand",0.824693577825102,0.747949063800078,"0",NA
+"38",38,"132",0.531008033,"Colombia","GAP",2018,0.706908333,"Colombia","World","Latin America and the Caribbean","South America",0.530812862480878,0.472071115528585,"0",NA
+"39",39,"28",0.524960868,"Comoro Islands","GAP",2018,0.536083333,"Comoro Islands","World","Africa","Eastern Africa",0.52635074264093,0.522019443348494,"0",NA
+"40",40,"153",0.5830287,"Cook Islands","GAP",2018,0.689182078,"Cook Islands","World","Oceania","Polynesia",0.575372809193041,0.577238142356621,"0",NA
+"41",41,"130",0.74076962,"Costa Rica","GAP",2018,0.809883333,"Costa Rica","World","Latin America and the Caribbean","Central America",0.737103172411165,0.558269074557765,"0",NA
+"42",42,"187",0.622874455,"Croatia","GAP",2018,0.79605,"Croatia","World","Europe","Southern Europe",0.622972877446773,0.703081789487449,"0",NA
+"43",43,"112",0.529,"Cuba","FMI",2018,0.6949,"Cuba","World","Latin America and the Caribbean","Caribbean",0.389732263340435,0.46201922141892,"0",NA
+"44",44,"244",0.454022688,"Curacao","GAP",2018,0.772655007,"Curacao","World","Latin America and the Caribbean","Caribbean",0.457297063410908,0.527106115399979,"0",NA
+"45",45,"81",0.554095256,"Cyprus","GAP",2018,0.828491667,"Cyprus","World","Asia","Western Asia",0.569350971604259,0.572357415263438,"0",NA
+"46",46,"199",0.261863061,"Democratic Republic of the Congo","GAP",2018,0.3563,"Democratic Republic of the Congo","World","Africa","Middle Africa",0.265038178426803,0.371527028956036,"0",NA
+"47",47,"175",0.841640998,"Denmark","GAP",2018,0.899616667,"Denmark","World","Europe","Northern Europe",0.842824945313619,0.789775019095166,"0",NA
+"48",48,"46",0.459952096,"Djibouti","GAP",2018,0.4634,"Djibouti","World","Africa","Eastern Africa",0.46319294673718,0.461177928805758,"0",NA
+"49",49,"123",0.425921133,"Dominica","GAP",2018,0.741235945,"Dominica","World","Latin America and the Caribbean","Caribbean",0.429995636476025,0.500805954982293,"0",NA
+"50",50,"115",0.347359699,"Dominican Republic","GAP",2018,0.6534,"Dominican Republic","World","Latin America and the Caribbean","Caribbean",0.3536710589099,0.427280544072856,"0",NA
+"51",51,"231",0.280679199,"East Timor","GAP",2018,0.551091667,"East Timor","World","Asia","South-Eastern Asia",0.282871890412522,0.340152376810469,"0",NA
+"52",52,"137",0.526603059,"Ecuador","GAP",2018,0.701983333,"Ecuador","World","Latin America and the Caribbean","South America",0.526533309906893,0.467948513457998,"0",NA
+"53",53,"214",0.57209932,"Egypt","GAP",2018,0.6093,"Egypt","World","Africa","Northern Africa",0.57190733853877,0.583307399282644,"0",NA
+"54",54,"134",0.597544607,"El Salvador","GAP",2018,0.64975,"El Salvador","World","Latin America and the Caribbean","Central America",0.597956163797771,0.424225214619527,"0",NA
+"55",55,"104",0.377187316,"Equatorial Guinea","GAP",2018,0.485238772,"Equatorial Guinea","World","Africa","Middle Africa",0.377078839056057,0.479458653001957,"0",NA
+"56",56,"45",0.347308485,"Eritrea","GAP",2018,0.337458333,"Eritrea","World","Africa","Eastern Africa",0.353756604568282,0.355755111110855,"0",NA
+"57",57,"70",0.783727887,"Estonia","GAP",2018,0.834866667,"Estonia","World","Europe","Northern Europe",0.786560776955135,0.73557431166968,"0",NA
+"58",58,"141",0.848328686,"Faeroe Islands","GAP",2018,0.907093865,"Faeroe Islands","World","Europe","Northern Europe",0.849322216774959,0.796034006294555,"0",NA
+"59",59,"95",0.796185135,"Falkland Islands","GAP",2018,0.848794546,"Falkland Islands","World","Europe","Northern Europe",0.798663333386526,0.747233012746693,"0",NA
+"60",60,"18",0.551970215,"Fiji","GAP",2018,0.648583333,"Fiji","World","Oceania","Melanesia",0.559258408598118,0.543253884447943,"0",NA
+"61",61,"174",0.839956524,"Finland","GAP",2018,0.897733333,"Finland","World","Europe","Northern Europe",0.841188432244102,0.788198524344302,"0",NA
+"62",62,"179",0.663,"France","FMI",2018,0.878791667,"France","World","Europe","Western Europe",0.662827888158893,0.772342899679942,"0",NA
+"63",63,"169",0.607856658,"French Guiana","GAP",2018,0.792829264,"French Guiana","World","Latin America and the Caribbean","South America",0.605473398809862,0.543993513101656,"0",NA
+"64",64,"147",0.686639881,"French Polynesia","GAP",2018,0.82461959,"French Polynesia","World","Oceania","Polynesia",0.693060515404967,0.690609709342686,"0",NA
+"65",65,"198",0.481,"Gabon","FMI",2018,0.601306984,"Gabon","World","Africa","Middle Africa",0.477935694979397,0.576616632924911,"0",NA
+"66",66,"65",0.511730404,"Gambia","GAP",2018,0.494316667,"Gambia","World","Africa","Western Africa",0.511594552010629,0.487057546143799,"0",NA
+"67",67,"74",0.464518848,"Georgia","GAP",2018,0.7114,"Georgia","World","Asia","Western Asia",0.467604789898258,0.474342725147154,"0",NA
+"68",68,"176",0.674888213,"Germany","GAP",2018,0.892083333,"Germany","World","Europe","Western Europe",0.67437761068536,0.783469041765862,"0",NA
+"69",69,"106",0.608990146,"Ghana","GAP",2018,0.603058333,"Ghana","World","Africa","Western Africa",0.606085044727325,0.578082646125666,"0",NA
+"70",70,"60",0.651717051,"Gibraltar","GAP",2018,0.828297587,"Gibraltar","World","Europe","Southern Europe",0.650994246776856,0.730075488764127,"0",NA
+"71",71,"80",0.649557716,"Greece","GAP",2018,0.825883333,"Greece","World","Europe","Southern Europe",0.64889639359514,0.72805457332467,"0",NA
+"72",72,"145",0.830943023,"Greenland","GAP",2018,0.887655751,"Greenland","World","Europe","Northern Europe",0.832431570926813,0.779762816644868,"0",NA
+"73",73,"125",0.411227578,"Grenada","GAP",2018,0.724807753,"Grenada","World","Latin America and the Caribbean","Caribbean",0.415720446352264,0.487054300493927,"0",NA
+"74",74,"140",0.472504211,"Guadeloupe","GAP",2018,0.793318352,"Guadeloupe and Martinique","World","Latin America and the Caribbean","Caribbean",0.47525236722449,0.544402917203483,"0",NA
+"75",75,"136",0.556684932,"Guatemala","GAP",2018,0.604066667,"Guatemala","World","Latin America and the Caribbean","Central America",0.558259874390996,0.385984767265797,"0",NA
+"76",76,"228",0.811976021,"Guernsey","GAP",2018,0.866449613,"Guernsey","World","Europe","Northern Europe",0.814004610020786,0.762011655542745,"0",NA
+"77",77,"194",0.419255761,"Guinea","GAP",2018,0.390925,"Guinea","World","Africa","Western Africa",0.421752912490129,0.400510804934529,"0",NA
+"78",78,"193",0.403805144,"Guinea Bissau","GAP",2018,0.373650372,"Guinea Bissau","World","Africa","Western Africa",0.406742216302914,0.386050618708859,"0",NA
+"79",79,"167",0.452911047,"Guyana","GAP",2018,0.619591667,"Guyana","World","Latin America and the Caribbean","South America",0.454939509641873,0.398980380899475,"0",NA
+"80",80,"114",0.137548362,"Haiti","GAP",2018,0.418819544,"Haiti","World","Latin America and the Caribbean","Caribbean",0.149833618446672,0.230918742321612,"0",NA
+"81",81,"133",0.535688634,"Honduras","GAP",2018,0.580591667,"Honduras","World","Latin America and the Caribbean","Central America",0.537861397908904,0.366334394959801,"0",NA
+"82",82,"143",0.929,"Iceland","FMI",2018,0.902375,"Iceland","World","Europe","Northern Europe",0.845221784113631,0.79208395500119,"0",NA
+"83",83,"203",0.422,"India","FMI",2018,0.562591667,"India","World","Asia","Southern Asia",0.438366616341432,0.34977875727986,"0",NA
+"84",84,"216",0.458,"Indonesia","FMI",2018,0.632625,"Indonesia","World","Asia","South-Eastern Asia",0.353719846779169,0.408402018931823,"0",NA
+"85",85,"191",0.505619357,"Iran","GAP",2018,0.639591667,"Iran","World","Asia","Southern Asia",0.505275357092062,0.414233652596654,"0",NA
+"86",86,"192",0.344726554,"Iraq","GAP",2018,0.55481101,"Iraq","World","Asia","Western Asia",0.33153761929679,0.343265751663875,"0",NA
+"87",87,"181",0.831437259,"Ireland","GAP",2018,0.888208333,"Ireland","World","Europe","Northern Europe",0.83291173411878,0.780225370085958,"0",NA
+"88",88,"79",0.55122009,"Israel","GAP",2018,0.824733333,"Israel","World","Asia","Western Asia",0.566085187250229,0.569211401957781,"0",NA
+"89",89,"184",0.680452163,"Italy","GAP",2018,0.860425,"Italy","World","Europe","Southern Europe",0.678911191548355,0.756968593201976,"0",NA
+"90",90,"195",0.486798698,"Cote d Ivoire","GAP",2018,0.466441667,"Ivory Coast","World","Africa","Western Africa",0.487372718914216,0.463724036962557,"0",NA
+"91",91,"166",0.554,"Jamaica","FMI",2018,0.723403316,"Jamaica","World","Latin America and the Caribbean","Caribbean",0.414500068285594,0.485878679197641,"0",NA
+"92",92,"210",0.679,"Japan","FMI",2018,0.897391667,"Japan","World","Asia","Eastern Asia",0.639111067292288,0.63003199042353,"0",NA
+"93",93,"227",0.811976021,"Jersey","GAP",2018,0.866449613,"Jersey","World","Europe","Northern Europe",0.814004610020786,0.762011655542745,"0",NA
+"94",94,"215",0.453904321,"Jordan","GAP",2018,0.697525,"Jordan","World","Asia","Western Asia",0.455548182392868,0.462728287841692,"0",NA
+"95",95,"43",0.535,"Kenya","FMI",2018,0.555475,"Kenya","World","Africa","Eastern Africa",0.543201028615288,0.53825175330308,"0",NA
+"96",96,"148",0.464006634,"Kiribati","GAP",2018,0.64662136,"Line Islands (Kiribati)","World","Oceania","Micronesia",0.464041107528101,0.541611562833276,"0",NA
+"97",97,"51",0.495451766,"Kuwait","GAP",2018,0.751834608,"Kuwait","World","Asia","Western Asia",0.502740227612873,0.508189587820083,"0",NA
+"98",98,"69",0.745812314,"Latvia","GAP",2018,0.792475,"Latvia","World","Europe","Northern Europe",0.749724763224096,0.700089240776312,"0",NA
+"99",99,"78",0.432745393,"Lebanon","GAP",2018,0.669866667,"Lebanon","World","Asia","Western Asia",0.431514620934536,0.43957614552803,"0",NA
+"100",100,"97",0.484175092,"Liberia","GAP",2018,0.463508333,"Liberia","World","Africa","Western Africa",0.484823813925372,0.461268611821009,"0",NA
+"101",101,"67",0.515186665,"Libya","GAP",2018,0.545668565,"Libya","World","Africa","Northern Africa",0.516615141291944,0.530043016402353,"0",NA
+"102",102,"189",0.769216068,"Lithuania","GAP",2018,0.818641667,"Lithuania","World","Europe","Northern Europe",0.772462149439823,0.721992744442213,"0",NA
+"103",103,"42",0.426419137,"Madagascar","GAP",2018,0.425908333,"Madagascar","World","Africa","Eastern Africa",0.430614761962999,0.429794533068912,"0",NA
+"104",104,"57",0.643817191,"Madeira","GAP",2018,0.819465114,"Madeira","World","Europe","Southern Europe",0.643319316307455,0.72268203262642,"0",NA
+"105",105,"206",0.386,"Malaysia","FMI",2018,0.727191667,"Malaysia","World","Asia","South-Eastern Asia",0.435893049453898,0.487561559476539,"0",NA
+"106",106,"39",0.5035051,"Maldives","GAP",2018,0.637227812,"Maldives","World","Asia","Southern Asia",0.503221297853529,0.412254924978874,"0",NA
+"107",107,"68",0.61190458,"Malta","GAP",2018,0.783785084,"Malta","World","Europe","Southern Europe",0.612315343875705,0.692815115762133,"0",NA
+"108",108,"11",0.430647847,"Marshall Islands","GAP",2018,0.609324426,"Marshall Islands","World","Oceania","Micronesia",0.431632134959278,0.510391173526687,"0",NA
+"109",109,"64",0.443934051,"Mauritania","GAP",2018,0.418516667,"Mauritania","World","Africa","Western Africa",0.445728544882087,0.423607142702072,"0",NA
+"110",110,"37",0.71451637,"Mauritius","GAP",2018,0.748016667,"Mauritius","World","Africa","Eastern Africa",0.710509086810056,0.699423870064196,"0",NA
+"111",111,"29",0.748984413,"Mayotte","GAP",2018,0.786553808,"Mayotte","World","Africa","Eastern Africa",0.743995730659919,0.731682407583203,"0",NA
+"112",112,"135",0.588,"Mexico","FMI",2018,0.704233333,"Mexico","World","Latin America and the Caribbean","Central America",0.64529916643319,0.469831935723748,"0",NA
+"113",113,"9",0.47233803,"Micronesia","GAP",2018,0.655936312,"Micronesia","World","Oceania","Micronesia",0.472135285560212,0.549408890833808,"0",NA
+"114",114,"185",0.612129927,"Monaco","GAP",2018,0.821916166,"Monaco","World","Europe","Western Europe",0.613406223854073,0.724733750809225,"0",NA
+"115",115,"186",0.553654498,"Montenegro","GAP",2018,0.718658333,"Montenegro","World","Europe","Southern Europe",0.555723799738175,0.638299038904628,"0",NA
+"116",116,"121",0.493314191,"Montserrat","GAP",2018,0.816585038,"Montserrat","World","Latin America and the Caribbean","Caribbean",0.495469830363455,0.563878914742428,"0",NA
+"117",117,"62",0.622,"Morocco","FMI",2018,0.665091667,"Morocco","World","Africa","Northern Africa",0.620387211049789,0.63000929611426,"0",NA
+"118",118,"41",0.443398039,"Mozambique","GAP",2018,0.444891667,"Mozambique","World","Africa","Eastern Africa",0.447110229147267,0.44568503703948,"0",NA
+"119",119,"205",0.172,"Myanmar","FMI",2018,0.523058333,"Myanmar","World","Asia","South-Eastern Asia",0.258512473828343,0.316686329948771,"0",NA
+"120",120,"101",0.775,"Namibia","FMI",2018,0.611308672,"Namibia","World","Africa","Southern Africa",0.759834102854061,0.584988811535706,"0",NA
+"121",121,"10",0.415991926,"Nauru","GAP",2018,0.592938312,"Nauru","World","Oceania","Micronesia",0.417393508289976,0.49667474154592,"0",NA
+"122",122,"177",0.676095668,"Netherlands","GAP",2018,0.893433333,"Netherlands","World","Europe","Western Europe",0.675550686010209,0.784599095125312,"0",NA
+"123",123,"5",0.682159767,"New Caledonia","GAP",2018,0.818763316,"New Caledonia","World","Oceania","Melanesia",0.707135400331801,0.685707559633381,"0",NA
+"124",124,"162",0.823,"New Zealand","FMI",2018,0.891166667,"New Zealand","World","Oceania","Australia and New Zealand",0.822997000692118,0.74631470780598,"0",NA
+"125",125,"131",0.578702349,"Nicaragua","GAP",2018,0.628683333,"Nicaragua","World","Latin America and the Caribbean","Central America",0.579650395475916,0.40659080142266,"0",NA
+"126",126,"196",0.518,"Nigeria","FMI",2018,0.4927,"Nigeria","World","Africa","Western Africa",0.510189757813446,0.485704272088642,"0",NA
+"127",127,"154",0.530851803,"Niue","GAP",2018,0.620977961,"Niue","World","Oceania","Polynesia",0.516107204225786,0.52014607454611,"0",NA
+"128",128,"3",0.824746299,"Norfolk Island","GAP",2018,0.893119124,"Norfolk Island","World","Oceania","Australia and New Zealand",0.824693577825102,0.747949063800078,"0",NA
+"129",129,"21",0.287762768,"North Korea","GAP",2018,0.477690239,"North Korea","World","Asia","Eastern Asia",0.27441374211409,0.278709761773544,"0",NA
+"130",130,"13",0.52723259,"Northern Mariana Islands & Guam","GAP",2018,0.717311408,"Northern Mariana Islands and Guam","World","Oceania","Micronesia",0.525466849025264,0.600784545220018,"0",NA
+"131",131,"221",0.479548718,"Northern Saint-Martin","GAP",2018,0.801194494,"Northern Saint-Martin","World","Latin America and the Caribbean","Caribbean",0.482096298954271,0.550995851075044,"0",NA
+"132",132,"223",0.865,"Norway","FMI",2018,0.902583333,"Norway","World","Europe","Northern Europe",0.845402813966706,0.792258345672697,"0",NA
+"133",133,"237",0.303837821,"Oecussi Ambeno","GAP",2018,0.576984263,"Oecussi Ambeno","World","Asia","South-Eastern Asia",0.305371124089468,0.361826462065794,"0",NA
+"134",134,"48",0.441689646,"Oman","GAP",2018,0.681558333,"Oman","World","Asia","Western Asia",0.441674031964886,0.44936296511386,"0",NA
+"135",135,"53",0.37344032,"Pakistan","GAP",2018,0.491808333,"Pakistan","World","Asia","Southern Asia",0.376859814470377,0.290527687368904,"0",NA
+"136",136,"8",0.471,"Palau","FMI",2018,0.654440322,"Palau","World","Oceania","Micronesia",0.470835353000789,0.54815663266699,"0",NA
+"137",137,"129",0.661800583,"Panama","GAP",2018,0.721591667,"Panama","World","Latin America and the Caribbean","Central America",0.660382598504214,0.484362190280163,"0",NA
+"138",138,"17",0.347348909,"Papua New Guinea","GAP",2018,0.381108333,"Papua New Guinea","World","Oceania","Melanesia",0.326837428958186,0.31935683087834,"0",NA
+"139",139,"138",0.613,"Peru","FMI",2018,0.700933333,"Peru","World","Latin America and the Caribbean","South America",0.525620917987566,0.467069583067314,"0",NA
+"140",140,"15",0.381,"Philippines","FMI",2018,0.633616667,"Philippines","World","Asia","South-Eastern Asia",0.354581550548181,0.409232120135383,"0",NA
+"141",141,"146",0.698413816,"Pitcairn","GAP",2018,0.840010135,"Pitcairn","World","Oceania","Polynesia",0.706434047683096,0.703492773847146,"0",NA
+"142",142,"178",0.936795147,"Poland","GAP",2018,0.812058333,"Poland","World","Europe","Eastern Europe",0.935033769795503,0.716481989847337,"0",NA
+"143",143,"183",0.674310541,"Portugal","GAP",2018,0.853558333,"Portugal","World","Europe","Southern Europe",0.672944437754538,0.751220667193401,"0",NA
+"144",144,"116",0.419868374,"Puerto Rico","GAP",2018,0.734468632,"Puerto Rico and Virgin Islands of the United States","World","Latin America and the Caribbean","Caribbean",0.424115215812449,0.495141195878514,"0",NA
+"145",145,"190",0.460681043,"Qatar","GAP",2018,0.706383333,"Qatar","World","Asia","Western Asia",0.463245583771826,0.470143390779307,"0",NA
+"146",146,"32",0.738488297,"Reunion","GAP",2018,0.774818581,"R_union","World","Africa","Eastern Africa",0.733798467530143,0.721859124105232,"0",NA
+"147",147,"100",0.353301678,"Congo","GAP",2018,0.458533333,"Republique du Congo","World","Africa","Middle Africa",0.353873289774463,0.457104155922294,"0",NA
+"148",148,"72",0.876877064,"Romania","GAP",2018,0.745066667,"Romania","World","Europe","Eastern Europe",0.87682171768061,0.660404836352173,"0",NA
+"149",149,"73",0.838,"Russia","FMI",2018,0.7016,"Russia","World","Europe","Eastern Europe",0.839051588413117,0.624019908154057,"0",NA
+"150",150,"248",0.454022688,"Saba","GAP",2018,0.772655007,"Saba","World","Latin America and the Caribbean","Caribbean",0.457297063410908,0.527106115399979,"0",NA
+"151",151,"86",0.796185135,"Saint Helena","GAP",2018,0.848794546,"Saint Helena","World","Europe","Northern Europe",0.798663333386526,0.747233012746693,"0",NA
+"152",152,"119",0.417907783,"Saint Kitts & Nevis","GAP",2018,0.732276584,"Saint Kitts and Nevis","World","Latin America and the Caribbean","Caribbean",0.422210447353424,0.493306283873717,"0",NA
+"153",153,"122",0.421669223,"Saint Lucia","GAP",2018,0.736482079,"Saint Lucia","World","Latin America and the Caribbean","Caribbean",0.425864789881775,0.496826605172162,"0",NA
+"154",154,"219",0.821520147,"Saint Pierre & Miquelon","GAP",2018,0.798266356,"Saint Pierre and Miquelon","World","Americas","Northern America",0.822687145684975,0.824147508996033,"0",NA
+"155",155,"127",0.426584075,"Saint Vincent & the Grenadines","GAP",2018,0.741977149,"Saint Vincent and the Grenadines","World","Latin America and the Caribbean","Caribbean",0.43063970175238,0.501426399478766,"0",NA
+"156",156,"152",0.637504286,"Samoa","GAP",2018,0.760390974,"Samoa","World","Oceania","Polynesia",0.637249400902165,0.636845440243692,"0",NA
+"157",157,"103",0.496042218,"Sao Tome & Principe","GAP",2018,0.618125,"Sao Tome and Principe","World","Africa","Middle Africa",0.492549620596072,0.590694599947198,"0",NA
+"158",158,"50",0.415634648,"Saudi Arabia","GAP",2018,0.6475,"Saudi Arabia","World","Asia","Western Asia",0.412079224522085,0.42085353279984,"0",NA
+"159",159,"66",0.558,"Senegal","FMI",2018,0.554675,"Senegal","World","Africa","Western Africa",0.564042604670852,0.537582092053035,"0",NA
+"160",160,"31",0.678867141,"Seychelles","GAP",2018,0.708158894,"Seychelles","World","Africa","Eastern Africa",0.675874886802855,0.666059862450228,"0",NA
+"161",161,"96",0.470304268,"Sierra Leone","GAP",2018,0.448,"Sierra Leone","World","Africa","Western Africa",0.471347930390678,0.448286949742399,"0",NA
+"162",162,"208",0.551760263,"Singapore","GAP",2018,0.854175,"Singapore","World","Asia","South-Eastern Asia",0.546234541757118,0.593856331366053,"0",NA
+"163",163,"249",0.454022688,"Sint Eustatius","GAP",2018,0.772655007,"Sint Eustatius","World","Latin America and the Caribbean","Caribbean",0.457297063410908,0.527106115399979,"0",NA
+"164",164,"220",0.454022688,"Sint Maarten","GAP",2018,0.772655007,"Sint Maarten","World","Latin America and the Caribbean","Caribbean",0.457297063410908,0.527106115399979,"0",NA
+"165",165,"188",0.675585076,"Slovenia","GAP",2018,0.854983333,"Slovenia","World","Europe","Southern Europe",0.674182683930768,0.752413501295043,"0",NA
+"166",166,"7",0.424468389,"Solomon Islands","GAP",2018,0.481916667,"Solomon Islands","World","Oceania","Melanesia",0.414434294998562,0.403741124580034,"0",NA
+"167",167,"44",0.333612629,"Somalia","GAP",2018,0.322145624,"Somalia","World","Africa","Eastern Africa",0.340450707468661,0.342937201297719,"0",NA
+"168",168,"102",0.787,"South Africa","FMI",2018,0.660025,"South Africa","World","Africa","Southern Africa",0.80216589714594,0.625768107918285,"0",NA
+"169",169,"20",0.692,"South Korea","FMI",2018,0.871266667,"South Korea","World","Asia","Eastern Asia",0.616409887394753,0.60816336522676,"0",NA
+"170",170,"182",0.69,"Spain","FMI",2018,0.8711,"Spain","World","Europe","Southern Europe",0.688187176061511,0.765904385507259,"0",NA
+"171",171,"40",0.541872816,"Sri Lanka","GAP",2018,0.680125,"Sri Lanka","World","Asia","Southern Asia",0.540496581370711,0.448163155653222,"0",NA
+"172",172,"49",0.374598467,"Sudan","GAP",2018,0.388483333,"Sudan","World","Africa","Northern Africa",0.38002986937356,0.398466942715263,"0",NA
+"173",173,"168",0.498101162,"Suriname","GAP",2018,0.670116667,"Suriname","World","Latin America and the Caribbean","South America",0.498842939855192,0.441273674222605,"0",NA
+"174",174,"222",0.773,"Sweden","FMI",2018,0.889866667,"Sweden","World","Europe","Northern Europe",0.834352734634156,0.781613522610247,"0",NA
+"175",175,"77",0.22002086,"Syria","GAP",2018,0.391799366,"Syria","World","Asia","Western Asia",0.189889517637959,0.206812525047791,"0",NA
+"176",176,"14",0.608993679,"Taiwan","GAP",2018,0.836843821,"Taiwan","World","Asia","Eastern Asia",0.586498338317962,0.579348807623694,"0",NA
+"177",177,"202",0.518,"Tanzania","FMI",2018,0.520133333,"Tanzania","World","Africa","Eastern Africa",0.512491074914014,0.508668072175729,"0",NA
+"178",178,"25",0.313,"Thailand","FMI",2018,0.673475,"Thailand","World","Asia","South-Eastern Asia",0.389216237164406,0.442596596512226,"0",NA
+"179",179,"98",0.496994983,"Togo","GAP",2018,0.477841667,"Togo","World","Africa","Western Africa",0.497278688324049,0.473266709775693,"0",NA
+"180",180,"156",0.630880423,"Tokelau","GAP",2018,0.751732454,"Tokelau","World","Oceania","Polynesia",0.629725625967566,0.629597596085272,"0",NA
+"181",181,"155",0.574202803,"Tonga","GAP",2018,0.677645123,"Tonga","World","Oceania","Polynesia",0.565347833463863,0.567580827722861,"0",NA
+"182",182,"126",0.418056294,"Trinidad & Tobago","GAP",2018,0.732442628,"Trinidad and Tobago","World","Latin America and the Caribbean","Caribbean",0.422354730404712,0.49344527541447,"0",NA
+"183",183,"88",0.796185135,"Tristan da Cunha","GAP",2018,0.848794546,"Tristan da Cunha","World","Europe","Northern Europe",0.798663333386526,0.747233012746693,"0",NA
+"184",184,"61",0.680643547,"Tunisia","GAP",2018,0.730658333,"Tunisia","World","Africa","Northern Africa",0.677361016988453,0.684893615507781,"0",NA
+"185",185,"76",0.431393873,"Turkey","GAP",2018,0.6681,"Turkey","World","Asia","Western Asia",0.429979485034592,0.438097309988489,"0",NA
+"186",186,"111",0.493314191,"Turks & Caicos Islands","GAP",2018,0.816585038,"Turks and Caicos Islands","World","Latin America and the Caribbean","Caribbean",0.495469830363455,0.563878914742428,"0",NA
+"187",187,"19",0.601353757,"Tuvalu","GAP",2018,0.713136058,"Tuvalu","World","Oceania","Polynesia",0.596187492800388,0.597289457594551,"0",NA
+"188",188,"75",0.830308065,"Ukraine","GAP",2018,0.693,"Ukraine","World","Europe","Eastern Europe",0.831578664121488,0.616821049716077,"0",NA
+"189",189,"54",0.488980073,"United Arab Emirates","GAP",2018,0.743375,"United Arab Emirates","World","Asia","Western Asia",0.49538929620347,0.501108248234874,"0",NA
+"190",190,"180",0.785,"United Kingdom","FMI",2018,0.887358333,"United Kingdom","World","Europe","Northern Europe",0.832173131136468,0.779513855007786,"0",NA
+"191",191,"163",0.932,"United States","FMI",2018,0.8478,"United States","World","Americas","Northern America",0.865729142371079,0.865610961446414,"0",NA
+"192",192,"173",0.60886651,"Uruguay","GAP",2018,0.793958333,"Uruguay","World","Latin America and the Caribbean","South America",0.606454497316493,0.544938630299064,"0",NA
+"193",193,"6",0.485677675,"Vanuatu","GAP",2018,0.56192766,"Vanuatu","World","Oceania","Melanesia",0.483959422113334,0.470716451567147,"0",NA
+"194",194,"139",0.267811755,"Venezuela","GAP",2018,0.412640618,"Venezuela","World","Latin America and the Caribbean","South America",0.275110495543017,0.225746508185246,"0",NA
+"195",195,"207",0.439,"Vietnam","FMI",2018,0.636394484,"Vietnam","World","Asia","South-Eastern Asia",0.356995319866437,0.411557365641152,"0",NA
+"196",196,"161",0.686639881,"Wallis and Futuna","GAP",2018,0.82461959,"Wallis and Futuna","World","Oceania","Polynesia",0.693060515404967,0.690609709342686,"0",NA
+"197",197,"63",0.568076745,"Western Sahara","GAP",2018,0.604802543,"Western Sahara","World","Africa","Northern Africa",0.567999297182275,0.579542683436841,"0",NA
+"198",198,"47",0.205543513,"Yemen","GAP",2018,0.372875,"Yemen","World","Asia","Western Asia",0.173445290383881,0.190971381807964,"0",NA
+"199",199,"X209",0.37,"Hong Kong","FMI",2018,0.645741667,"China","World","Asia","Eastern Asia",0.420441137293638,0.419381673456372,"0",NA
+"200",200,"X209",0.37,"Macau","FMI",2018,0.645741667,"China","World","Asia","Eastern Asia",0.420441137293638,0.419381673456372,"0",NA
+"201",201,"X116",0.419868374,"US Virgin Islands","FMI",2018,0.734468632,"Puerto Rico and Virgin Islands of the United States","World","Latin America and the Caribbean","Caribbean",0.424115215812449,0.495141195878514,"0",NA
+"202",202,"X140",0.472504211,"Martinique","GAP",2018,0.793318352,"Guadeloupe and Martinique","World","Latin America and the Caribbean","Caribbean",0.47525236722449,0.544402917203483,"0",NA
+"203",203,"X186",0.553654498,"Serbia","GAP",2018,0.718658333,"Montenegro","World","Europe","Southern Europe",0.555723799738175,0.638299038904628,"0",NA
+"204",204,NA,0.653110160843021,"Austria",NA,2018,0.8676083,"Austria","World","Europe","Western Europe",0.653110160843021,0.762981565273783,"1","SPI + UN_geopolitical region r2"
+"205",205,NA,0.865177800681336,"Belarus",NA,2018,0.7316666,"Belarus","World","Europe","Eastern Europe",0.865177800681336,0.649187954329796,"1","SPI + UN_geopolitical region r2"
+"206",206,NA,0.78060158625506,"Botswana",NA,2018,0.635208333,"Botswana","World","Africa","Southern Africa",0.78060158625506,0.604994657611834,"1","SPI + UN_geopolitical region r2"
+"207",208,NA,0.965084774066912,"Czech Republic",NA,2018,0.846641667,"Czech Republic","World","Europe","Eastern Europe",0.965084774066912,0.745430888193774,"1","SPI + UN_geopolitical region r2"
+"208",209,NA,0.925511584577892,"Hungary",NA,2018,0.8011,"Hungary","World","Europe","Eastern Europe",0.925511584577892,0.707309026128355,"1","SPI + UN_geopolitical region r2"
+"209",210,NA,0.441899032989122,"Kazakhstan",NA,2018,0.672641667,"Kazakhstan","World","Asia","Central Asia",NA,0.441899032989122,"1","SPI + UN_geopolitical region r1"
+"210",211,NA,0.674920701113531,"Luxembourg",NA,2018,0.892708333,"Luxembourg","World","Europe","Western Europe",0.674920701113531,0.783992214617459,"1","SPI + UN_geopolitical region r2"
+"211",212,NA,0.92751015735356,"Slovakia",NA,2018,0.8034,"Slovakia","World","Europe","Eastern Europe",0.92751015735356,0.709234302222233,"1","SPI + UN_geopolitical region r2"
+"212",213,NA,0.680981590291916,"Switzerland",NA,2018,0.899683333,"Switzerland","World","Europe","Western Europe",0.680981590291916,0.789830823641285,"1","SPI + UN_geopolitical region r2"
+"213",214,NA,0.485511879855381,"Bolivia",NA,2018,0.654775,"Bolivia","World","Latin America and the Caribbean","South America",0.485511879855381,0.42843152434637,"1","SPI + UN_geopolitical region r2"
+"214",215,NA,0.478777558546064,"Paraguay",NA,2018,0.647025,"Paraguay","World","Latin America and the Caribbean","South America",0.478777558546064,0.421944180986563,"1","SPI + UN_geopolitical region r2"
+"215",216,NA,0.555723799738175,"Kosovo",NA,2018,0.718658333,"Montenegro","World","Europe","Southern Europe",0.555723799738175,0.638299038904628,"1","SPI + UN_geopolitical region r2"
+"216",217,NA,0.528866168053355,"Macedonia",NA,2018,0.68775,"Macedonia","World","Europe","Southern Europe",0.528866168053355,0.612426397762659,"1","SPI + UN_geopolitical region r2"
+"217",218,NA,0.465251398332499,"Armenia",NA,2018,0.708691667,"Armenia","World","Asia","Western Asia",0.465251398332499,0.472075643069257,"1","SPI + UN_geopolitical region r2"
+"218",219,NA,0.388556171542012,"Azerbaijan",NA,2018,0.620429171,"Azerbaijan","World","Asia","Western Asia",0.388556171542012,0.398193176314985,"1","SPI + UN_geopolitical region r2"
+"219",220,"X147",0.686639881,"French Oceania","GAP",2018,0.82461959,"French Polynesia","World","Oceania","Polynesia",0.693060515404967,0.690609709342686,"0",NA
+"220",221,"X146",0.743736355,"French Terr. in Africa",NA,2018,0.780686195,"French Terr. in Africa","World","Africa","Eastern Africa",0.738897099529503,0.726770766262756,"0",NA
+"221",222,"X169",0.540180435,"French Terr. in Central Amer.",NA,2018,0.793073808,"French Terr. In Central Amer.","World","Latin America and the Caribbean","Caribbean",0.475039872015423,0.54419821515257,"0",NA
+"222",223,NA,0.817552448373618,"Moldova",NA,2018,0.676858333,"Moldova","World","Europe","Eastern Europe",0.817552448373618,0.603309238589797,"1","SPI + UN_geopolitical region r2"
+"223",224,NA,0.471887917,"Netherlands Antilles","GAP",2018,0.792629302,"Netherlands Antilles","World","Latin America and the Caribbean","Caribbean",0.47465362088924,0.543826129598054,"0",NA
+"224",225,NA,0.400905480964435,"Niger",NA,2018,0.366933333,"Niger","World","Africa","Western Africa",0.400905480964435,0.380427942792186,"1","SPI + UN_geopolitical region r2"
+"225",226,"79",0.55122009,"Palestine","GAP",2018,0.824733333,"Israel","World","Asia","Western Asia",0.566085187250229,0.569211401957781,"0",NA
+"226",227,"X58",0.618453223,"Spanish Africa, NES","GAP",2018,0.791106823,"Canary Islands","World","Europe","Southern Europe",0.618677530065248,0.698943971876184,"0",NA
+"227",228,NA,0.323229478691774,"Tajikistan",NA,2018,0.530875,"Tajikistan","World","Asia","Central Asia",NA,0.323229478691774,"1","SPI + UN_geopolitical region r1"
+"228",229,NA,0.21741863200939,"Laos",NA,2018,0.475766667,"Laos","World","Asia","South-Eastern Asia",0.21741863200939,0.277099584735956,"1","SPI + UN_geopolitical region r2"
+"229",230,NA,0.555919704,"Ships & Aircraft Stores","GAP",2018,NA,"World","World","World",NA,NA,NA,"0",NA
+"230",231,NA,0.680981590291916,"Liechtenstein",NA,2018,0.899683333,"Switzerland","World","Europe","Western Europe",0.680981590291916,0.789830823641285,"1","SPI + UN_geopolitical region r2"
+"231",232,"184",0.680452163,"Vatican City State","GAP",2018,0.860425,"Italy","World","Europe","Southern Europe",0.678911191548355,0.756968593201976,"0",NA
+"232",233,NA,0.331037772395276,"Turkmenistan",NA,2018,0.540203052,"Turkmenistan","World","Asia","Central Asia",NA,0.331037772395276,"1","SPI + UN_geopolitical region r1"
+"233",234,NA,0.555919704,"Unknown Countries","GAP",2018,NA,"World","World","World",NA,NA,NA,"0",NA
+"234",235,NA,0.390006080636897,"Burundi",NA,2018,0.379175,"Burundi","World","Africa","Eastern Africa",0.390006080636897,0.390675155324499,"1","SPI + UN_geopolitical region r2"
+"235",236,NA,0.200461105624804,"Chad",NA,2018,0.281983333,"Chad","World","Africa","Middle Africa",0.200461105624804,0.309318288803074,"1","SPI + UN_geopolitical region r2"
+"236",237,NA,0.420904305107307,"Ethiopia",NA,2018,0.414733333,"Ethiopia","World","Africa","Eastern Africa",0.420904305107307,0.420440202482352,"1","SPI + UN_geopolitical region r2"
+"237",238,"X146",0.780004222,"French Southern Terr.","GAP",2018,0.786542469,"French Southern Terr.","World",NA,NA,NA,NA,"0",NA
+"238",239,NA,0.436766309590108,"Nepal",NA,2018,0.56075,"Nepal","World","Asia","Southern Asia",0.436766309590108,0.348237140998128,"1","SPI + UN_geopolitical region r2"
+"239",240,NA,0.51358449755536,"Rwanda",NA,2018,0.521391667,"Rwanda","World","Africa","Eastern Africa",0.51358449755536,0.509721394074996,"1","SPI + UN_geopolitical region r2"
+"240",241,NA,0.476859428074877,"Uganda",NA,2018,0.479127677,"Uganda","World","Africa","Eastern Africa",0.476859428074877,0.474343198605905,"1","SPI + UN_geopolitical region r2"
+"241",242,NA,0.485133536745037,"Zambia",NA,2018,0.488649697,"Zambia","World","Africa","Eastern Africa",0.485133536745037,0.482313858376093,"1","SPI + UN_geopolitical region r2"
+"242",243,NA,0.453830067755517,"Zimbabwe",NA,2018,0.452625,"Zimbabwe","World","Africa","Eastern Africa",0.453830067755517,0.45215842884422,"1","SPI + UN_geopolitical region r2"
+"243",244,NA,0.520626712615724,"Bhutan",NA,2018,0.657258333,"Bhutan","World","Asia","Southern Asia",0.520626712615724,0.429022004643755,"1","SPI + UN_geopolitical region r2"
+"244",245,NA,0.464577402763168,"Burkina Faso",NA,2018,0.440208333,"Burkina Faso","World","Africa","Western Africa",0.464577402763168,0.44176472791346,"1","SPI + UN_geopolitical region r2"
+"245",246,"X127",0.426584075,"St. Vincent & the Grenadines","GAP",2018,0.741977149,"Saint Vincent and the Grenadines","World","Latin America and the Caribbean","Caribbean",0.43063970175238,0.501426399478766,"0",NA
+"246",247,NA,0.599618859,"U.S. Minor Outlying Is.","GAP",2018,0.761400437,"American Oceania","World","Oceania",NA,NA,0.637690438061759,"0",NA
+"247",248,"X6",0.481613087,"British Terr. in Central Amer.","GAP",2018,0.80350257,"British Terr. In Central Amer.","World","Latin America and the Caribbean","Caribbean",0.484101889327216,0.552927887399242,"0",NA
+"248",249,NA,0.181445699722769,"Central African Republic",NA,2018,0.2601,"Central African Republic","World","Africa","Middle Africa",0.181445699722769,0.291000263638171,"1","SPI + UN_geopolitical region r2"
+"249",250,NA,0.555919704,"Unidentified Country","GAP",2018,NA,"World","World","World",NA,NA,NA,"0",NA
+"250",251,NA,0.52635074264093,"Comoros",NA,2018,0.536083333,"Comoros","World","Africa","Eastern Africa",0.52635074264093,0.522019443348494,"1","SPI + UN_geopolitical region r2"
+"251",252,NA,0.429594007519552,"Kyrgyzstan",NA,2018,0.657941667,"Kyrgyzstan","World","Asia","Central Asia",NA,0.429594007519552,"1","SPI + UN_geopolitical region r1"
+"252",253,NA,0.473628910188994,"Mali",NA,2018,0.450625,"Mali","World","Africa","Western Africa",0.473628910188994,0.450484275719108,"1","SPI + UN_geopolitical region r2"
+"253",254,NA,0.425640322703011,"Mongolia",NA,2018,0.651725,"Mongolia","World","Asia","Eastern Asia",0.425640322703011,0.424390181276638,"1","SPI + UN_geopolitical region r2"
+"254",255,NA,0.553302519,"Other Oceania, N.E.S.",NA,2018,0.699536623,"Other Oceania, N.E.S.","World","Oceania",NA,NA,0.58590568929205,"0",NA
+"255",256,NA,0.272244282118508,"South Sudan",NA,2018,0.243652221,"South Sudan","World","Africa","Eastern Africa",0.272244282118508,0.277232213331174,"1","SPI + UN_geopolitical region r2"
+"256",257,"X132",0.531008033,"Duty Free (Cartagena)","GAP",2018,0.706908333,"Colombia","World","Latin America and the Caribbean","South America",0.530812862480878,0.472071115528585,"0",NA
+"257",258,NA,0.555919704,"Duty Free","GAP",2018,NA,"World","World","World",NA,NA,NA,"0",NA
+"258",259,NA,0.555919704,"Other Countries, NES","GAP",2018,NA,"World","World","World",NA,NA,NA,"0",NA
+"259",260,NA,0.73284431,"Not Determin Extra EU Trade","GAP",2018,0.843354625,"EU","World","Europe",NA,NA,0.742679382375438,"0",NA
+"260",261,NA,0.73284431,"Not Determin Intra EU Trade","GAP",2018,0.843354625,"EU","World","Europe",NA,NA,0.742679382375438,"0",NA
+"261",262,NA,0.235960433785771,"Afghanistan",NA,2018,0.329658333,"Afghanistan","World","Asia","Southern Asia",0.235960433785771,0.154795722750487,"1","SPI + UN_geopolitical region r2"
+"262",263,"X184",0.680452163,"San Marino","GAP",2018,0.860425,"Italy","World","Europe","Southern Europe",0.678911191548355,0.756968593201976,"0",NA
+"263",264,NA,0.555919704,"International Waters","GAP",2018,NA,"World","World","World",NA,NA,NA,"0",NA
+"264",265,NA,0.555919704,"Not Determined","GAP",2018,NA,"World","World","World",NA,NA,NA,"0",NA
+"265",266,NA,0.377325551546941,"Uzbekistan",NA,2018,0.5955,"Uzbekistan","World","Asia","Central Asia",NA,0.377325551546941,"1","SPI + UN_geopolitical region r1"
+"266",267,NA,0.680981590291916,"Andorra","GAP",2018,0.899683333,"Switzerland","World","Europe","Western Europe",0.680981590291916,0.789830823641285,"1","SPI + UN_geopolitical region r2"
+"267",268,"X161",0.686639881,"Wallis & Futuna","GAP",2018,0.82461959,"Wallis and Futuna","World","Oceania","Polynesia",0.693060515404967,0.690609709342686,"0",NA
+"268",269,NA,0.73284431,"Extra EU Stores & Provisions","GAP",2018,0.843354625,"EU","World","Europe",NA,NA,0.742679382375438,"0",NA
+"269",270,NA,0.673620013690438,"Swaziland",NA,2018,0.512091667,"Eswatini","World","Africa","Southern Africa",0.673620013690438,0.501936582043228,"1","SPI + UN_geopolitical region r2"
+"270",271,NA,0.965084774066912,"Czechoslovakia (Former)",NA,2018,0.846641667,"Czech Republic","World","Europe","Eastern Europe",0.965084774066912,0.745430888193774,"1","SPI + UN_geopolitical region r2"
+"271",272,NA,0.555919704,"Stores & Provisions","GAP",2018,NA,"World","World","World",NA,NA,NA,"0",NA
+"272",273,NA,0.480651493991089,"Malawi",NA,2018,0.483491667,"Malawi","World","Africa","Eastern Africa",0.480651493991089,0.477996192354133,"1","SPI + UN_geopolitical region r2"
+"273",274,"X232",0.590096607,"Yugoslavia","GAP",2018,0.759402588,"Yugoslavia","World","Europe","Southern Europe",0.591128303567689,0.672405099823924,"0",NA
+"274",275,NA,0.5063059,"Non-EU Suppression","GAP",2018,NA,"Not Europe","World","World",NA,NA,NA,"0",NA
+"275",276,"XX",0.554986855,"Other Asia, N.E.S.","GAP",2018,NA,"Asia","World","Asia",NA,NA,NA,"0",NA
+"276",277,"XX",0.475304617,"Pacific Is. (Trust Terr.)","GAP",2018,0.659253117,"Pacifc Is. (Trust Terr.)","World","Oceania","Micronesia",0.475017405636386,0.552185310561876,"0",NA
+"277",278,NA,0.764558828,"Antarctica","GAP",2018,0.857010714,"World","World","World",NA,NA,0.764558827999999,"0",NA
+"278",279,NA,0.73284431,"Intra EU Stores & Provisions","GAP",2018,0.843354625,"EU","World","Europe",NA,NA,0.742679382375438,"0",NA
+"279",280,"154",0.530851803,"Nieu","GAP",2018,0.620977961,"Niue","World","Oceania","Polynesia",0.516107204225786,0.52014607454611,"0",NA
+"280",281,NA,0.555919704,"Storage Deposits","GAP",2018,NA,"World","World","World",NA,NA,NA,"0",NA
+"281",282,"31",0.678867141,"British Indian Ocean Terr.","GAP",2018,0.708158894,"Seychelles","World","Africa","Eastern Africa",0.675874886802855,0.666059862450228,"0",NA
+"282",283,NA,0.653837039403959,"Lesotho",NA,2018,0.489325,"Lesotho","World","Africa","Southern Africa",0.653837039403959,0.482879138690016,"1","SPI + UN_geopolitical region r2"
+"283",284,NA,0.599618859,"Midway Islands","GAP",2018,0.761400437,"American Oceania","World","Oceania",NA,NA,0.637690438061759,"0",NA
+"284",285,"76",0.431393873,"FTZ-Aegean","GAP",2018,0.6681,"Turkey","World","Asia","Western Asia",0.429979485034592,0.438097309988489,"0",NA
+"285",286,"76",0.431393873,"FTZ-Bursa","GAP",2018,0.6681,"Turkey","World","Asia","Western Asia",0.429979485034592,0.438097309988489,"0",NA
+"286",287,"76",0.431393873,"FTZ-Menemen Leather","GAP",2018,0.6681,"Turkey","World","Asia","Western Asia",0.429979485034592,0.438097309988489,"0",NA
+"287",288,"79",0.55122009,"West Bank","GAP",2018,0.824733333,"Israel","World","Asia","Western Asia",0.566085187250229,0.569211401957781,"0",NA
+"288",289,NA,0.555919704,"Commercial or Military Secret","GAP",2018,NA,"World","World","World",NA,NA,NA,"0",NA
+"289",290,"129",0.661800583,"FTZ-Colon","GAP",2018,0.721591667,"Panama","World","Latin America and the Caribbean","Central America",0.660382598504214,0.484362190280163,"0",NA
+"290",291,"137",0.526603059,"FTZ-Ecuador","GAP",2018,0.701983333,"Ecuador","World","Latin America and the Caribbean","South America",0.526533309906893,0.467948513457998,"0",NA
+"291",292,NA,0.862506716,"Other North America, N.E.S.","GAP",2018,0.844091563,"Northern America","World","Americas","Northern America",0.86250671575,0.862506715749999,"0",NA
+"292",293,NA,0.822630138,"Austral. Oceania","GAP",2018,0.890753141,"Austral. Oceania","World","Oceania","Australia and New Zealand",0.822637669472279,0.745968554883372,"0",NA
+"293",294,NA,0.558070997,"Central/South Amer., NES","GAP",2018,0.681776792,"Central/South Amer., NES","World","Latin America and the Caribbean",NA,NA,0.451034091576576,"0",NA
+"294",295,NA,0.516905234,"Oth. Africa, N.E.S.","GAP",2018,0.53244702,"Africa","World","Africa",NA,NA,0.518975570962077,"0",NA
+"295",296,NA,0.656955183,"Oth. West Europe","GAP",2018,0.872033233,"West Europe","World","Europe","Western Europe",0.656955182855176,0.766685572978962,"0",NA
+"296",298,NA,0.558070997,"Other Latin America, N.E.S.","GAP",2018,0.681776792,"Central/South Amer., NES","World","Latin America and the Caribbean",NA,NA,0.451034091576576,"0",NA
+"297",299,"147",0.686639881,"Tahiti","GAP",2018,0.82461959,"French Polynesia","World","Oceania","Polynesia",0.693060515404967,0.690609709342686,"0",NA
+"298",300,NA,0.555919704,"Products Outside Ter. Waters","GAP",2018,NA,"World","World","World",NA,NA,NA,"0",NA
+"299",301,"X52",0.449194033,"Returned Bahrain Goods","GAP",2018,0.691367849,"Bahrain","World","Asia","Western Asia",0.450197958756225,0.457574281047476,"0",NA
+"300",302,"95",0.796185135,"S. Georgia & S. Sandwich","GAP",2018,0.848794546,"Falkland Islands","World","Europe","Northern Europe",0.798663333386526,0.747233012746693,"0",NA
+"301",303,NA,0.454022688,"BES Islands","GAP",2018,0.772655007,"BES Islands","World","Latin America and the Caribbean","Caribbean",0.457297063410908,0.527106115399979,"0",NA
+"302",304,"X169",0.540180435,"St. Barthelemy","GAP",2018,0.793073808,"French Terr. In Central Amer.","World","Latin America and the Caribbean","Caribbean",0.475039872015423,0.54419821515257,"0",NA
+"303",305,NA,0.822630138,"Heard & McDonald Is.","GAP",2018,0.890753141,"Austral. Oceania","World","Oceania","Australia and New Zealand",0.822637669472279,0.745968554883372,"0",NA
+"304",306,NA,0.555919704,"Products Within Ter. Waters","GAP",2018,NA,"World","World","World",NA,NA,NA,"0",NA
+"305",307,NA,0.73284431,"European Union","GAP",2018,0.843354625,"EU","World","Europe",NA,NA,0.742679382375438,"0",NA
+"306",308,NA,0.52337802,"Other South American Countries","GAP",2018,0.698377565,"South America","World","Latin America and the Caribbean","South America",0.523400096967686,0.464930209575184,"0",NA
+"307",309,"37",0.71451637,"St. Brandon & Outer Islands","GAP",2018,0.748016667,"Mauritius","World","Africa","Eastern Africa",0.710509086810056,0.699423870064196,"0",NA
+"308",310,"223",0.865,"Svalbard & Jan Mayen","FMI",2018,0.902583333,"Norway","World","Europe","Northern Europe",0.845402813966706,0.792258345672697,"0",NA
+"309",311,NA,0.572882402,"British Terr. in Africa","GAP",2018,0.546565278,"British Terr. In Africa","World","Africa",NA,NA,0.530793633837992,"0",NA
+"310",312,NA,0.555919704,"High Seas","GAP",2018,NA,"World","World","World",NA,NA,NA,"0",NA
+"311",313,"174",0.839956524,"Aland Islands","GAP",2018,0.897733333,"Finland","World","Europe","Northern Europe",0.841188432244102,0.788198524344302,"0",NA
+"312",314,"76",0.431393873,"FTZ-Mersin","GAP",2018,0.6681,"Turkey","World","Asia","Western Asia",0.429979485034592,0.438097309988489,"0",NA
+"313",315,"54",0.488980073,"FTZ-Jebel Ali","GAP",2018,0.743375,"United Arab Emirates","World","Asia","Western Asia",0.49538929620347,0.501108248234874,"0",NA
+"314",316,"223",0.865,"Bouvet Island","FMI",2018,0.902583333,"Norway","World","Europe","Northern Europe",0.845402813966706,0.792258345672697,"0",NA
+"315",317,NA,0.427319994,"Other Middle & Near Eastern","GAP",2018,0.662774744,"Middle East","World","Asia","Western Asia",0.425352132136738,0.43363966300128,"0",NA
+"316",318,NA,0.73284431,"EU Suppression","GAP",2018,0.843354625,"EU","World","Europe",NA,NA,0.742679382375438,"0",NA
+"317",319,NA,0.824746299,"Other Australian Terr.","GAP",2018,0.893119124,"Other Australian Terr.","World","Oceania","Australia and New Zealand",0.824693577825102,0.747949063800078,"0",NA
+"318",320,"146",0.698413816,"British Terr. in Oceania","GAP",2018,0.840010135,"Pitcairn","World","Oceania","Polynesia",0.706434047683096,0.703492773847146,"0",NA
+"319",321,NA,0.471887917,"Dutch Terr. in America","GAP",2018,0.792629302,"Netherlands Antilles","World","Latin America and the Caribbean","Caribbean",0.47465362088924,0.543826129598054,"0",NA
+"320",322,"191",0.505619357,"Rajaee Port Special Econ. Zone","GAP",2018,0.639591667,"Iran","World","Asia","Southern Asia",0.505275357092062,0.414233652596654,"0",NA
+"321",323,NA,0.555919704,"Free Trade Zones","GAP",2018,NA,"World","World","World",NA,NA,NA,"0",NA
+"322",324,NA,0.599618859,"American Oceania","GAP",2018,0.761400437,"American Oceania","World","Oceania",NA,NA,0.637690438061759,"0",NA
+"323",325,"191",0.505619357,"FTZ-Chabahar","GAP",2018,0.639591667,"Iran","World","Asia","Southern Asia",0.505275357092062,0.414233652596654,"0",NA
+"324",326,NA,0.740199546,"Other Europe, N.E.S.","GAP",2018,0.831417816,"Europe","World","Europe",NA,NA,0.732687359329833,"0",NA
