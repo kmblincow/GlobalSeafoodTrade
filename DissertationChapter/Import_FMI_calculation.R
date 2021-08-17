@@ -87,7 +87,7 @@ FAO[FAO$ProductType == "Aquatic animals nei" | FAO$ProductType == "Cephalopods" 
       FAO$ProductType == "Crustaceans" | 
       FAO$ProductType == "Molluscs excl. cephalopods",]$GroupCoarse <- "Invert"  
 
-GTA$GroupCoarse <- "butt"
+GTA$GroupCoarse <- "word"
 GTA[GTA$FAOGroup == "Demersal fish" | GTA$FAOGroup == "Pelagic fish" |
       GTA$FAOGroup == "Marine fish nei" |
       GTA$FAOGroup == "Freshwater & diadromous fish",]$GroupCoarse <- "Fish"
