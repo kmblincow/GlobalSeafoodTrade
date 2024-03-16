@@ -96,10 +96,13 @@ d3a <- d %>%
   filter(FMIc != "FMIc3")
 
 
-m1 <- lm(FMIc1 ~ FMIp, data = d)
-m2 <- lm(FMIc2 ~ FMIp, data = d)
-m3 <- lm(FMIc3_flp ~ FMIp, data = d)
+m1 <- lm(FMIc1 ~ FMIp, data = d) #proportional
+m2 <- lm(FMIc2 ~ FMIp, data = d) #guillen
+m3 <- lm(FMIc3_flp ~ FMIp, data = d) #gephart
 
+summary(m1)
+summary(m2)
+summary(m3)
 
 p2 <- ggplot(data = d3a, aes(x = FMIp, y = value, color = FMIc)) +
   geom_point(aes(shape = FMIc), size = 2) +
@@ -409,7 +412,7 @@ FAO <- read.csv("ConsumptionAngle/FAO_FMI_class.csv", header = T)
 
 d4 <- FAO %>% filter(Country %in% d2$Country) %>% 
   group_by(Country) %>% 
-  summarize(propI = sum(p_imp)/n(),
+  dplyr::summarize(propI = sum(p_imp)/n(),
             propP = sum(p_prod)/n(),
             propIgep = .665,
             propPgep = .365,
@@ -424,7 +427,7 @@ d4a <- d4 %>%
                names_to = "ProdType",
                values_to = "pProd")
 d4b <- d4a %>% group_by(Country, FoodSupply) %>% 
-  summarize(min = min(pProd),
+  dplyr::summarize(min = min(pProd),
             max = 1 - max(pProd),
             uncertainty = max(pProd) - min,
             check = min + max + uncertainty) %>% 
@@ -464,7 +467,7 @@ ggplot(d4c, aes(fill = Break, x = Country, y = Value)) +
 d5 <- FAO %>% 
   filter(Country %in% d2$Country) %>% 
   group_by(Country) %>% 
-  summarize(Imports = sum(Imports),
+  dplyr::summarize(Imports = sum(Imports),
             Production = sum(Production),
             Exports = sum(Exports),
             FoodSupply = sum(FoodSupply))
@@ -489,17 +492,17 @@ p4 <- ggplot() +
            stat = "identity") +
   scale_fill_manual(values = c("gray40", "deepskyblue4", "deepskyblue3")) +
   geom_hline(yintercept = 0) +
-  labs(fill = "", y = "Exports as a Share of\nNational Imports and Production", x = "") +
+  labs(fill = "", y = "Relative Proportion of Exports Compared to \nCombined Imports and Production", x = "") +
   theme_bw() +
-  annotate(geom = "text", x = 24.5, y = -.7,
-           label = "(B)") +
+  # annotate(geom = "text", x = 24.5, y = -1,
+  #          label = "(B)") +
   theme(axis.text.y = element_blank(),
         legend.position = "top",
         axis.title = element_text(size = 14),
         axis.text.x = element_text(size = 12),
         legend.title = element_text(size = 14),
         plot.margin = margin(1, 1, 1, 0, unit = "cm")) +
-  coord_flip()
+  coord_flip(ylim = c(-1,1))
 p4
 
 #UPDATE 7/19/2022 Changing it so exports have positive value also
@@ -563,7 +566,7 @@ p4a <- ggplot() +
   geom_bar(data = d5c, aes(fill = Flow, x = IO, y = value),
            position = "stack", stat = "identity", width = 1) +
   scale_fill_manual(values = c("gray40", "deepskyblue4", "deepskyblue3")) +
-  labs(fill = "", y = "Exports as a Share of\nNational Imports and Production", 
+  labs(fill = "", y = "Relative Proportion of Exports Compared to \nCombined Imports and Production", 
        x = "") +
   scale_x_discrete(limits = rev, breaks = seq(2.5, 72.5, by = 3),
                    expand = expansion(mult = c(0, .015)), 
@@ -595,9 +598,15 @@ d2_dec <- filter(d2, direction == "Decrease")
 d2_inc <- filter(d2, direction == "Increase")
 
 bars <- d6 %>% group_by(Country) %>% 
-  summarize(max = max(value),
+  dplyr::summarize(max = max(value),
             min = min(value))
 shapes <- c(8, 17, 15)
+
+levels(d6$Country)[78] <- "USA"
+levels(d2_inc$Country)[78] <- "USA"
+levels(d2_dec$Country)[78] <- "USA"
+levels(d2$Country)[78] <- "USA"
+levels(bars$Country)[78] <- "USA"
 
 p5 <- ggplot() +
   geom_point(data = d6, aes(x = value, y = Country), 
@@ -651,16 +660,33 @@ p5 <- ggplot() +
 #combine the things
 library(patchwork)
 
-bigp <- p5 + p4a + plot_layout(widths = c(3, 1)) + 
-  plot_annotation(tag_levels = 'A', tag_prefix = "(", tag_suffix = ")")
+bigp1 <- p5 + p4a + plot_layout(widths = c(3, 1)) + 
+  plot_annotation(tag_levels = 'a', tag_prefix = "(", tag_suffix = ")")
 
-bigp
+bigp1
 
-png(filename="ConsumptionAngle/Figures/2_Top25RawDiff_Flow2.png",
-    width=4000,
-    height = 2500,
+
+bigp2 <- p5 + p4 + plot_layout(widths = c(3, 1)) + 
+  plot_annotation(tag_levels = 'a', tag_prefix = "(", tag_suffix = ")")
+
+bigp2
+
+
+png(filename="ConsumptionAngle/Figures/2_Top25RawDiff_Flow1.png",
+    width=4500,
+    height = 3000,
     res=300)
 
-bigp
+bigp1
+
+dev.off()
+
+
+png(filename="ConsumptionAngle/Figures/2_Top25RawDiff_Flow2.png",
+    width = 4500,
+    height = 3000,
+    res=300)
+
+bigp2
 
 dev.off()
