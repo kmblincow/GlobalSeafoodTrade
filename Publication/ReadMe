@@ -12,5 +12,8 @@ IntermediateFMIiCalc2.csv - data entered into supplementary table on calculation
 Consumption_FMI_Calculation.R - calculate the consumption FMI using three different methods (generates Final_FAOFMI_prop.csv)
 Consumption_FMI_Calculation_Wild.R - calculate the consumption FMI using three different methods using wild capture data (generates Final_FAOFMI_prop_Wild.csv)
 
-Q1_FMIpvFMIc.R - calculates differences between FMIc and FMIp, runs linear models, and generates Figures 
-Q1_FMIpvFMIc_Wild.R - calculates differences between FMIc and FMIp, runs linear models, and generates Figures for wild capture products
+Q1_FMIpvFMIc.R - calculates differences between FMIc and FMIp, runs linear models (generates Fig. 1 & 2, Table 1 & 2)
+Q1_FMIpvFMIc_Wild.R - calculates differences between FMIc and FMIp, runs linear models, and generates Figures for wild capture products ((generates Fig. 1 & 2, Table 1 & 2 - WILD)
+
+Q3_ReporterCommunityAnalysis.R - find and plot the countries that account for the most imports/exports (generates Fig. 3)
+Q3_ReporterCommunityAnalysis_Wild.R - find and plot the countries that account for the most imports/exports (generates Fig. 3_Wild)
