@@ -1,1 +1,16 @@
 This folder contains the materials used to generate the analysis and figures included in Blincow et al. (XXXX).
+
+Scripts listed in order of implementation:
+GTA_Conversion_Cleaning.R - cleans GTA dataset and prepares for it to be combined with FAO data (generates GTA_FAOmatch.csv)
+GTA_Conversion_Cleaning_Wild.R - same as GTA_Conversion_Cleaning.R except includes filtering of products potentially associated with aquaculture (generates GTA_FAOmatch_Wild.csv)
+FMI_GapFilling.R - aligns FMI country names with GTA country names and expands gap filling to all countries/groups in GTA data (generates FMI_GTAMatch.csv)
+
+Import_FMI_calculation.R - calculate import FMI for each Reporter based on their Partners relative production (generates Import_FMI_prop.csv)
+Import_FMI_calculation_Wild.R - calculate import FMI for each Reporter based on their Partners relative production of wild capture products (generates Import_FMI_prop_Wild.csv)
+IntermediateFMIiCalc2.csv - data entered into supplementary table on calculations made for irregular trade partners
+
+Consumption_FMI_Calculation.R - calculate the consumption FMI using three different methods (generates Final_FAOFMI_prop.csv)
+Consumption_FMI_Calculation_Wild.R - calculate the consumption FMI using three different methods using wild capture data (generates Final_FAOFMI_prop_Wild.csv)
+
+Q1_FMIpvFMIc.R - calculates differences between FMIc and FMIp, runs linear models, and generates Figures 
+Q1_FMIpvFMIc_Wild.R - calculates differences between FMIc and FMIp, runs linear models, and generates Figures for wild capture products
