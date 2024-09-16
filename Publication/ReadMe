@@ -1,11 +1,9 @@
 This folder contains the materials used to generate the analysis and figures included in Blincow et al. (XXXX).
 
-Data:
+Data Provided:
 FAOBalanceSheetData.csv - raw FAO data
 AquacultureRemovalProductCodes.csv - products removed to account for aquaculture in parallel analysis
 HS6Codes.csv - conversion factors for going from GTA to FAO data
-GTA_FAOmatch.csv - cleaned GTA data that can be combined with FAO data (third party data - see data availability statement)
-GTA_FAOmatch_Wild.csv - cleaned Wild capture GTA data that can be combined with FAO data (third party data - see data availability statement)
 fmi_res.csv - Countries with their FMI values (production) and how those values were derived
 OHIRegnID.csv - region_id key
 spi_res.csv - SPI resilience data coded by region_id
@@ -18,6 +16,16 @@ Import_FMI_prop.csv - import FMI data
 Import_FMI_prop_Wild.csv - import FMI for wild capture data
 FAOMetrics.csv - data including how UN classifies FAO countries, such as region and developing v. developed
 CountryLatsLongs.csv - coordinates for mapping edges on figure 3
+
+Third Party Data (see data availability statement for how to access):
+2012_all.csv - 2012 GTA data
+2013_all.csv - 2013 GTA data
+2014_all.csv - 2014 GTA data
+2015_all.csv - 2015 GTA data
+2016_all.csv - 2016 GTA data
+2017_all.csv - 2017 GTA data
+GTA_FAOmatch.csv - cleaned GTA data that can be combined with FAO data
+GTA_FAOmatch_Wild.csv - cleaned Wild capture GTA data that can be combined with FAO data
 
 Scripts listed in order of implementation:
 CountryClassification.R - cleans FAO dataset and prepares for it to be combined with GTA data (generates FAO_FMI_class.csv)
