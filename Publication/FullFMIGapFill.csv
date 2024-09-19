@@ -1,0 +1,325 @@
+,rgn_id,FMI,Country,derivation,year,spi,rgn_name,r0_label,r1_label,r2_label
+1,82,0.552767541,Albania,GAP,2018,0.717666667,Albania,World,Europe,Southern Europe
+2,84,0.624891929,Algeria,GAP,2018,0.668325,Algeria,World,Africa,Northern Africa
+3,151,0.672005127,American Samoa,GAP,2018,0.805489466,American Samoa,World,Oceania,Polynesia
+4,26,0.356622287,Andaman and Nicobar,GAP,2018,0.636000159,Andaman and Nicobar,World,Asia,South-Eastern Asia
+5,200,0.292914029,Angola,GAP,2018,0.391016667,Angola,World,Africa,Middle Africa
+6,118,0.469759979,Anguilla,GAP,2018,0.790250152,Anguilla,World,Latin America and the Caribbean,Caribbean
+7,120,0.423187995,Antigua & Barbuda,GAP,2018,0.738180148,Antigua and Barbuda,World,Latin America and the Caribbean,Caribbean
+8,172,0.694,Argentina,FMI,2018,0.749841667,Argentina,World,Latin America and the Caribbean,South America
+9,250,0.507618376,Aruba,GAP,2018,0.832577893,Aruba,World,Latin America and the Caribbean,Caribbean
+10,85,0.796185135,Ascension,GAP,2018,0.848794546,Ascension,World,Europe,Northern Europe
+11,16,0.815911793,Australia,GAP,2018,0.883241667,Australia,World,Oceania,Australia and New Zealand
+12,55,0.643817191,Azores,GAP,2018,0.819465114,Azores,World,Europe,Southern Europe
+13,110,0.329,Bahamas,FMI,2018,0.755441823,Bahamas,World,Latin America and the Caribbean,Caribbean
+14,52,0.449194033,Bahrain,GAP,2018,0.691367849,Bahrain,World,Asia,Western Asia
+15,204,0.415,Bangladesh,FMI,2018,0.521783333,Bangladesh,World,Asia,Southern Asia
+16,124,0.261,Barbados,FMI,2018,0.756891667,Barbados,World,Latin America and the Caribbean,Caribbean
+17,59,0.658662107,Belgium,GAP,2018,0.873941667,Belgium,World,Europe,Western Europe
+18,164,0.587,Belize,FMI,2018,0.572805835,Belize,World,Latin America and the Caribbean,Central America
+19,99,0.512840964,Benin,GAP,2018,0.495558333,Benin,World,Africa,Western Africa
+20,108,0.485360677,Bermuda,GAP,2018,0.807692578,Bermuda,World,Latin America and the Caribbean,Caribbean
+21,245,0.454022688,Bonaire,GAP,2018,0.772655007,Bonaire,World,Latin America and the Caribbean,Caribbean
+22,232,0.508272399,Bosnia & Herzegovina,GAP,2018,0.667918685,Bosnia and Herzegovina,World,Europe,Southern Europe
+23,171,0.251,Brazil,FMI,2018,0.727258333,Brazil,World,Latin America and the Caribbean,South America
+24,38,0.66916209,British Indian Ocean Territory,GAP,2018,0.822441312,British Indian Ocean Territory,World,Asia,Southern Asia
+25,117,0.493314191,British Virgin Islands,GAP,2018,0.816585038,British Virgin Islands,World,Latin America and the Caribbean,Caribbean
+26,247,0.437699969,Brunei,GAP,2018,0.726649404,Brunei,World,Asia,South-Eastern Asia
+27,71,0.892685779,Bulgaria,GAP,2018,0.762741667,Bulgaria,World,Europe,Eastern Europe
+28,24,0.21267415,Cambodia,GAP,2018,0.475058333,Cambodia,World,Asia,South-Eastern Asia
+29,197,0.351333974,Cameroon,GAP,2018,0.456333333,Cameroon,World,Africa,Middle Africa
+30,218,0.834,Canada,FMI,2018,0.886208333,Canada,World,Americas,Northern America
+31,58,0.618453223,Canary Islands,GAP,2018,0.791106823,Canary Islands,World,Europe,Southern Europe
+32,56,0.675638671,Cape Verde,GAP,2018,0.677575,Cape Verde,World,Africa,Western Africa
+33,113,0.454615295,Cayman Islands,GAP,2018,0.773317574,Cayman Islands,World,Latin America and the Caribbean,Caribbean
+34,224,0.706,Chile,FMI,2018,0.806091667,Chile,World,Latin America and the Caribbean,South America
+35,209,0.37,China,FMI,2018,0.645741667,China,World,Asia,Eastern Asia
+36,2,0.824746299,Christmas Island,GAP,2018,0.893119124,Christmas Island,World,Oceania,Australia and New Zealand
+37,1,0.824746299,Cocos Islands,GAP,2018,0.893119124,Cocos Islands,World,Oceania,Australia and New Zealand
+38,132,0.531008033,Colombia,GAP,2018,0.706908333,Colombia,World,Latin America and the Caribbean,South America
+39,28,0.524960868,Comoro Islands,GAP,2018,0.536083333,Comoro Islands,World,Africa,Eastern Africa
+40,153,0.5830287,Cook Islands,GAP,2018,0.689182078,Cook Islands,World,Oceania,Polynesia
+41,130,0.74076962,Costa Rica,GAP,2018,0.809883333,Costa Rica,World,Latin America and the Caribbean,Central America
+42,187,0.622874455,Croatia,GAP,2018,0.79605,Croatia,World,Europe,Southern Europe
+43,112,0.529,Cuba,FMI,2018,0.6949,Cuba,World,Latin America and the Caribbean,Caribbean
+44,244,0.454022688,Curacao,GAP,2018,0.772655007,Curacao,World,Latin America and the Caribbean,Caribbean
+45,81,0.554095256,Cyprus,GAP,2018,0.828491667,Cyprus,World,Asia,Western Asia
+46,199,0.261863061,Democratic Republic of the Congo,GAP,2018,0.3563,Democratic Republic of the Congo,World,Africa,Middle Africa
+47,175,0.841640998,Denmark,GAP,2018,0.899616667,Denmark,World,Europe,Northern Europe
+48,46,0.459952096,Djibouti,GAP,2018,0.4634,Djibouti,World,Africa,Eastern Africa
+49,123,0.425921133,Dominica,GAP,2018,0.741235945,Dominica,World,Latin America and the Caribbean,Caribbean
+50,115,0.347359699,Dominican Republic,GAP,2018,0.6534,Dominican Republic,World,Latin America and the Caribbean,Caribbean
+51,231,0.280679199,East Timor,GAP,2018,0.551091667,East Timor,World,Asia,South-Eastern Asia
+52,137,0.526603059,Ecuador,GAP,2018,0.701983333,Ecuador,World,Latin America and the Caribbean,South America
+53,214,0.57209932,Egypt,GAP,2018,0.6093,Egypt,World,Africa,Northern Africa
+54,134,0.597544607,El Salvador,GAP,2018,0.64975,El Salvador,World,Latin America and the Caribbean,Central America
+55,104,0.377187316,Equatorial Guinea,GAP,2018,0.485238772,Equatorial Guinea,World,Africa,Middle Africa
+56,45,0.347308485,Eritrea,GAP,2018,0.337458333,Eritrea,World,Africa,Eastern Africa
+57,70,0.783727887,Estonia,GAP,2018,0.834866667,Estonia,World,Europe,Northern Europe
+58,141,0.848328686,Faeroe Islands,GAP,2018,0.907093865,Faeroe Islands,World,Europe,Northern Europe
+59,95,0.796185135,Falkland Islands,GAP,2018,0.848794546,Falkland Islands,World,Europe,Northern Europe
+60,18,0.551970215,Fiji,GAP,2018,0.648583333,Fiji,World,Oceania,Melanesia
+61,174,0.839956524,Finland,GAP,2018,0.897733333,Finland,World,Europe,Northern Europe
+62,179,0.663,France,FMI,2018,0.878791667,France,World,Europe,Western Europe
+63,169,0.607856658,French Guiana,GAP,2018,0.792829264,French Guiana,World,Latin America and the Caribbean,South America
+64,147,0.686639881,French Polynesia,GAP,2018,0.82461959,French Polynesia,World,Oceania,Polynesia
+65,198,0.481,Gabon,FMI,2018,0.601306984,Gabon,World,Africa,Middle Africa
+66,65,0.511730404,Gambia,GAP,2018,0.494316667,Gambia,World,Africa,Western Africa
+67,74,0.464518848,Georgia,GAP,2018,0.7114,Georgia,World,Asia,Western Asia
+68,176,0.674888213,Germany,GAP,2018,0.892083333,Germany,World,Europe,Western Europe
+69,106,0.608990146,Ghana,GAP,2018,0.603058333,Ghana,World,Africa,Western Africa
+70,60,0.651717051,Gibraltar,GAP,2018,0.828297587,Gibraltar,World,Europe,Southern Europe
+71,80,0.649557716,Greece,GAP,2018,0.825883333,Greece,World,Europe,Southern Europe
+72,145,0.830943023,Greenland,GAP,2018,0.887655751,Greenland,World,Europe,Northern Europe
+73,125,0.411227578,Grenada,GAP,2018,0.724807753,Grenada,World,Latin America and the Caribbean,Caribbean
+74,140,0.472504211,Guadeloupe,GAP,2018,0.793318352,Guadeloupe and Martinique,World,Latin America and the Caribbean,Caribbean
+75,136,0.556684932,Guatemala,GAP,2018,0.604066667,Guatemala,World,Latin America and the Caribbean,Central America
+76,228,0.811976021,Guernsey,GAP,2018,0.866449613,Guernsey,World,Europe,Northern Europe
+77,194,0.419255761,Guinea,GAP,2018,0.390925,Guinea,World,Africa,Western Africa
+78,193,0.403805144,Guinea Bissau,GAP,2018,0.373650372,Guinea Bissau,World,Africa,Western Africa
+79,167,0.452911047,Guyana,GAP,2018,0.619591667,Guyana,World,Latin America and the Caribbean,South America
+80,114,0.137548362,Haiti,GAP,2018,0.418819544,Haiti,World,Latin America and the Caribbean,Caribbean
+81,133,0.535688634,Honduras,GAP,2018,0.580591667,Honduras,World,Latin America and the Caribbean,Central America
+82,143,0.929,Iceland,FMI,2018,0.902375,Iceland,World,Europe,Northern Europe
+83,203,0.422,India,FMI,2018,0.562591667,India,World,Asia,Southern Asia
+84,216,0.458,Indonesia,FMI,2018,0.632625,Indonesia,World,Asia,South-Eastern Asia
+85,191,0.505619357,Iran,GAP,2018,0.639591667,Iran,World,Asia,Southern Asia
+86,192,0.344726554,Iraq,GAP,2018,0.55481101,Iraq,World,Asia,Western Asia
+87,181,0.831437259,Ireland,GAP,2018,0.888208333,Ireland,World,Europe,Northern Europe
+88,79,0.55122009,Israel,GAP,2018,0.824733333,Israel,World,Asia,Western Asia
+89,184,0.680452163,Italy,GAP,2018,0.860425,Italy,World,Europe,Southern Europe
+90,195,0.486798698,Cote d Ivoire,GAP,2018,0.466441667,Ivory Coast,World,Africa,Western Africa
+91,166,0.554,Jamaica,FMI,2018,0.723403316,Jamaica,World,Latin America and the Caribbean,Caribbean
+92,210,0.679,Japan,FMI,2018,0.897391667,Japan,World,Asia,Eastern Asia
+93,227,0.811976021,Jersey,GAP,2018,0.866449613,Jersey,World,Europe,Northern Europe
+94,215,0.453904321,Jordan,GAP,2018,0.697525,Jordan,World,Asia,Western Asia
+95,43,0.535,Kenya,FMI,2018,0.555475,Kenya,World,Africa,Eastern Africa
+96,148,0.464006634,Kiribati,GAP,2018,0.64662136,Line Islands (Kiribati),World,Oceania,Micronesia
+97,51,0.495451766,Kuwait,GAP,2018,0.751834608,Kuwait,World,Asia,Western Asia
+98,69,0.745812314,Latvia,GAP,2018,0.792475,Latvia,World,Europe,Northern Europe
+99,78,0.432745393,Lebanon,GAP,2018,0.669866667,Lebanon,World,Asia,Western Asia
+100,97,0.484175092,Liberia,GAP,2018,0.463508333,Liberia,World,Africa,Western Africa
+101,67,0.515186665,Libya,GAP,2018,0.545668565,Libya,World,Africa,Northern Africa
+102,189,0.769216068,Lithuania,GAP,2018,0.818641667,Lithuania,World,Europe,Northern Europe
+103,42,0.426419137,Madagascar,GAP,2018,0.425908333,Madagascar,World,Africa,Eastern Africa
+104,57,0.643817191,Madeira,GAP,2018,0.819465114,Madeira,World,Europe,Southern Europe
+105,206,0.386,Malaysia,FMI,2018,0.727191667,Malaysia,World,Asia,South-Eastern Asia
+106,39,0.5035051,Maldives,GAP,2018,0.637227812,Maldives,World,Asia,Southern Asia
+107,68,0.61190458,Malta,GAP,2018,0.783785084,Malta,World,Europe,Southern Europe
+108,11,0.430647847,Marshall Islands,GAP,2018,0.609324426,Marshall Islands,World,Oceania,Micronesia
+109,64,0.443934051,Mauritania,GAP,2018,0.418516667,Mauritania,World,Africa,Western Africa
+110,37,0.71451637,Mauritius,GAP,2018,0.748016667,Mauritius,World,Africa,Eastern Africa
+111,29,0.748984413,Mayotte,GAP,2018,0.786553808,Mayotte,World,Africa,Eastern Africa
+112,135,0.588,Mexico,FMI,2018,0.704233333,Mexico,World,Latin America and the Caribbean,Central America
+113,9,0.47233803,Micronesia,GAP,2018,0.655936312,Micronesia,World,Oceania,Micronesia
+114,185,0.612129927,Monaco,GAP,2018,0.821916166,Monaco,World,Europe,Western Europe
+115,186,0.553654498,Montenegro,GAP,2018,0.718658333,Montenegro,World,Europe,Southern Europe
+116,121,0.493314191,Montserrat,GAP,2018,0.816585038,Montserrat,World,Latin America and the Caribbean,Caribbean
+117,62,0.622,Morocco,FMI,2018,0.665091667,Morocco,World,Africa,Northern Africa
+118,41,0.443398039,Mozambique,GAP,2018,0.444891667,Mozambique,World,Africa,Eastern Africa
+119,205,0.172,Myanmar,FMI,2018,0.523058333,Myanmar,World,Asia,South-Eastern Asia
+120,101,0.775,Namibia,FMI,2018,0.611308672,Namibia,World,Africa,Southern Africa
+121,10,0.415991926,Nauru,GAP,2018,0.592938312,Nauru,World,Oceania,Micronesia
+122,177,0.676095668,Netherlands,GAP,2018,0.893433333,Netherlands,World,Europe,Western Europe
+123,5,0.682159767,New Caledonia,GAP,2018,0.818763316,New Caledonia,World,Oceania,Melanesia
+124,162,0.823,New Zealand,FMI,2018,0.891166667,New Zealand,World,Oceania,Australia and New Zealand
+125,131,0.578702349,Nicaragua,GAP,2018,0.628683333,Nicaragua,World,Latin America and the Caribbean,Central America
+126,196,0.518,Nigeria,FMI,2018,0.4927,Nigeria,World,Africa,Western Africa
+127,154,0.530851803,Niue,GAP,2018,0.620977961,Niue,World,Oceania,Polynesia
+128,3,0.824746299,Norfolk Island,GAP,2018,0.893119124,Norfolk Island,World,Oceania,Australia and New Zealand
+129,21,0.287762768,North Korea,GAP,2018,0.477690239,North Korea,World,Asia,Eastern Asia
+130,13,0.52723259,Northern Mariana Islands & Guam,GAP,2018,0.717311408,Northern Mariana Islands and Guam,World,Oceania,Micronesia
+131,221,0.479548718,Northern Saint-Martin,GAP,2018,0.801194494,Northern Saint-Martin,World,Latin America and the Caribbean,Caribbean
+132,223,0.865,Norway,FMI,2018,0.902583333,Norway,World,Europe,Northern Europe
+133,237,0.303837821,Oecussi Ambeno,GAP,2018,0.576984263,Oecussi Ambeno,World,Asia,South-Eastern Asia
+134,48,0.441689646,Oman,GAP,2018,0.681558333,Oman,World,Asia,Western Asia
+135,53,0.37344032,Pakistan,GAP,2018,0.491808333,Pakistan,World,Asia,Southern Asia
+136,8,0.471,Palau,FMI,2018,0.654440322,Palau,World,Oceania,Micronesia
+137,129,0.661800583,Panama,GAP,2018,0.721591667,Panama,World,Latin America and the Caribbean,Central America
+138,17,0.347348909,Papua New Guinea,GAP,2018,0.381108333,Papua New Guinea,World,Oceania,Melanesia
+139,138,0.613,Peru,FMI,2018,0.700933333,Peru,World,Latin America and the Caribbean,South America
+140,15,0.381,Philippines,FMI,2018,0.633616667,Philippines,World,Asia,South-Eastern Asia
+141,146,0.698413816,Pitcairn,GAP,2018,0.840010135,Pitcairn,World,Oceania,Polynesia
+142,178,0.936795147,Poland,GAP,2018,0.812058333,Poland,World,Europe,Eastern Europe
+143,183,0.674310541,Portugal,GAP,2018,0.853558333,Portugal,World,Europe,Southern Europe
+144,116,0.419868374,Puerto Rico,GAP,2018,0.734468632,Puerto Rico and Virgin Islands of the United States,World,Latin America and the Caribbean,Caribbean
+145,190,0.460681043,Qatar,GAP,2018,0.706383333,Qatar,World,Asia,Western Asia
+146,32,0.738488297,Reunion,GAP,2018,0.774818581,R_union,World,Africa,Eastern Africa
+147,100,0.353301678,Congo,GAP,2018,0.458533333,Republique du Congo,World,Africa,Middle Africa
+148,72,0.876877064,Romania,GAP,2018,0.745066667,Romania,World,Europe,Eastern Europe
+149,73,0.838,Russia,FMI,2018,0.7016,Russia,World,Europe,Eastern Europe
+150,248,0.454022688,Saba,GAP,2018,0.772655007,Saba,World,Latin America and the Caribbean,Caribbean
+151,86,0.796185135,Saint Helena,GAP,2018,0.848794546,Saint Helena,World,Europe,Northern Europe
+152,119,0.417907783,Saint Kitts & Nevis,GAP,2018,0.732276584,Saint Kitts and Nevis,World,Latin America and the Caribbean,Caribbean
+153,122,0.421669223,Saint Lucia,GAP,2018,0.736482079,Saint Lucia,World,Latin America and the Caribbean,Caribbean
+154,219,0.821520147,Saint Pierre & Miquelon,GAP,2018,0.798266356,Saint Pierre and Miquelon,World,Americas,Northern America
+155,127,0.426584075,Saint Vincent & the Grenadines,GAP,2018,0.741977149,Saint Vincent and the Grenadines,World,Latin America and the Caribbean,Caribbean
+156,152,0.637504286,Samoa,GAP,2018,0.760390974,Samoa,World,Oceania,Polynesia
+157,103,0.496042218,Sao Tome & Principe,GAP,2018,0.618125,Sao Tome and Principe,World,Africa,Middle Africa
+158,50,0.415634648,Saudi Arabia,GAP,2018,0.6475,Saudi Arabia,World,Asia,Western Asia
+159,66,0.558,Senegal,FMI,2018,0.554675,Senegal,World,Africa,Western Africa
+160,31,0.678867141,Seychelles,GAP,2018,0.708158894,Seychelles,World,Africa,Eastern Africa
+161,96,0.470304268,Sierra Leone,GAP,2018,0.448,Sierra Leone,World,Africa,Western Africa
+162,208,0.551760263,Singapore,GAP,2018,0.854175,Singapore,World,Asia,South-Eastern Asia
+163,249,0.454022688,Sint Eustatius,GAP,2018,0.772655007,Sint Eustatius,World,Latin America and the Caribbean,Caribbean
+164,220,0.454022688,Sint Maarten,GAP,2018,0.772655007,Sint Maarten,World,Latin America and the Caribbean,Caribbean
+165,188,0.675585076,Slovenia,GAP,2018,0.854983333,Slovenia,World,Europe,Southern Europe
+166,7,0.424468389,Solomon Islands,GAP,2018,0.481916667,Solomon Islands,World,Oceania,Melanesia
+167,44,0.333612629,Somalia,GAP,2018,0.322145624,Somalia,World,Africa,Eastern Africa
+168,102,0.787,South Africa,FMI,2018,0.660025,South Africa,World,Africa,Southern Africa
+169,20,0.692,South Korea,FMI,2018,0.871266667,South Korea,World,Asia,Eastern Asia
+170,182,0.69,Spain,FMI,2018,0.8711,Spain,World,Europe,Southern Europe
+171,40,0.541872816,Sri Lanka,GAP,2018,0.680125,Sri Lanka,World,Asia,Southern Asia
+172,49,0.374598467,Sudan,GAP,2018,0.388483333,Sudan,World,Africa,Northern Africa
+173,168,0.498101162,Suriname,GAP,2018,0.670116667,Suriname,World,Latin America and the Caribbean,South America
+174,222,0.773,Sweden,FMI,2018,0.889866667,Sweden,World,Europe,Northern Europe
+175,77,0.22002086,Syria,GAP,2018,0.391799366,Syria,World,Asia,Western Asia
+176,14,0.608993679,Taiwan,GAP,2018,0.836843821,Taiwan,World,Asia,Eastern Asia
+177,202,0.518,Tanzania,FMI,2018,0.520133333,Tanzania,World,Africa,Eastern Africa
+178,25,0.313,Thailand,FMI,2018,0.673475,Thailand,World,Asia,South-Eastern Asia
+179,98,0.496994983,Togo,GAP,2018,0.477841667,Togo,World,Africa,Western Africa
+180,156,0.630880423,Tokelau,GAP,2018,0.751732454,Tokelau,World,Oceania,Polynesia
+181,155,0.574202803,Tonga,GAP,2018,0.677645123,Tonga,World,Oceania,Polynesia
+182,126,0.418056294,Trinidad & Tobago,GAP,2018,0.732442628,Trinidad and Tobago,World,Latin America and the Caribbean,Caribbean
+183,88,0.796185135,Tristan da Cunha,GAP,2018,0.848794546,Tristan da Cunha,World,Europe,Northern Europe
+184,61,0.680643547,Tunisia,GAP,2018,0.730658333,Tunisia,World,Africa,Northern Africa
+185,76,0.431393873,Turkey,GAP,2018,0.6681,Turkey,World,Asia,Western Asia
+186,111,0.493314191,Turks & Caicos Islands,GAP,2018,0.816585038,Turks and Caicos Islands,World,Latin America and the Caribbean,Caribbean
+187,19,0.601353757,Tuvalu,GAP,2018,0.713136058,Tuvalu,World,Oceania,Polynesia
+188,75,0.830308065,Ukraine,GAP,2018,0.693,Ukraine,World,Europe,Eastern Europe
+189,54,0.488980073,United Arab Emirates,GAP,2018,0.743375,United Arab Emirates,World,Asia,Western Asia
+190,180,0.785,United Kingdom,FMI,2018,0.887358333,United Kingdom,World,Europe,Northern Europe
+191,163,0.932,United States,FMI,2018,0.8478,United States,World,Americas,Northern America
+192,173,0.60886651,Uruguay,GAP,2018,0.793958333,Uruguay,World,Latin America and the Caribbean,South America
+193,6,0.485677675,Vanuatu,GAP,2018,0.56192766,Vanuatu,World,Oceania,Melanesia
+194,139,0.267811755,Venezuela,GAP,2018,0.412640618,Venezuela,World,Latin America and the Caribbean,South America
+195,207,0.439,Vietnam,FMI,2018,0.636394484,Vietnam,World,Asia,South-Eastern Asia
+196,161,0.686639881,Wallis and Futuna,GAP,2018,0.82461959,Wallis and Futuna,World,Oceania,Polynesia
+197,63,0.568076745,Western Sahara,GAP,2018,0.604802543,Western Sahara,World,Africa,Northern Africa
+198,47,0.205543513,Yemen,GAP,2018,0.372875,Yemen,World,Asia,Western Asia
+199,X209,0.37,Hong Kong,FMI,2018,0.645741667,China,World,Asia,Eastern Asia
+200,X209,0.37,Macau,FMI,2018,0.645741667,China,World,Asia,Eastern Asia
+201,X116,0.419868374,US Virgin Islands,FMI,2018,0.734468632,Puerto Rico and Virgin Islands of the United States,World,Latin America and the Caribbean,Caribbean
+202,X140,0.472504211,Martinique,GAP,2018,0.793318352,Guadeloupe and Martinique,World,Latin America and the Caribbean,Caribbean
+203,X186,0.553654498,Serbia,GAP,2018,0.718658333,Montenegro,World,Europe,Southern Europe
+204,NA,NA,Austria,NA,2018,0.8676083,Austria,World,Europe,Western Europe
+205,NA,NA,Belarus,NA,2018,0.7316666,Belarus,World,Europe,Eastern Europe
+206,NA,NA,Botswana,NA,2018,0.635208333,Botswana,World,Africa,Southern Africa
+208,NA,NA,Czech Republic,NA,2018,0.846641667,Czech Republic,World,Europe,Eastern Europe
+209,NA,NA,Hungary,NA,2018,0.8011,Hungary,World,Europe,Eastern Europe
+210,NA,NA,Kazakhstan,NA,2018,0.672641667,Kazakhstan,World,Asia,Central Asia
+211,NA,NA,Luxembourg,NA,2018,0.892708333,Luxembourg,World,Europe,Western Europe
+212,NA,NA,Slovakia,NA,2018,0.8034,Slovakia,World,Europe,Eastern Europe
+213,NA,NA,Switzerland,NA,2018,0.899683333,Switzerland,World,Europe,Western Europe
+214,NA,NA,Bolivia,NA,2018,0.654775,Bolivia,World,Latin America and the Caribbean,South America
+215,NA,NA,Paraguay,NA,2018,0.647025,Paraguay,World,Latin America and the Caribbean,South America
+216,NA,NA,Kosovo,NA,2018,0.718658333,Montenegro,World,Europe,Southern Europe
+217,NA,NA,Macedonia,NA,2018,0.68775,Macedonia,World,Europe,Southern Europe
+218,NA,NA,Armenia,NA,2018,0.708691667,Armenia,World,Asia,Western Asia
+219,NA,NA,Azerbaijan,NA,2018,0.620429171,Azerbaijan,World,Asia,Western Asia
+220,X147,0.686639881,French Oceania,GAP,2018,0.82461959,French Polynesia,World,Oceania,Polynesia
+221,X146,0.743736355,French Terr. in Africa,NA,2018,0.780686195,French Terr. in Africa,World,Africa,Eastern Africa
+222,X169,0.540180435,French Terr. in Central Amer.,NA,2018,0.793073808,French Terr. In Central Amer.,World,Latin America and the Caribbean,Caribbean
+223,NA,NA,Moldova,NA,2018,0.676858333,Moldova,World,Europe,Eastern Europe
+224,NA,0.471887917,Netherlands Antilles,GAP,2018,0.792629302,Netherlands Antilles,World,Latin America and the Caribbean,Caribbean
+225,NA,NA,Niger,NA,2018,0.366933333,Niger,World,Africa,Western Africa
+226,79,0.55122009,Palestine,GAP,2018,0.824733333,Israel,World,Asia,Western Asia
+227,X58,0.618453223,"Spanish Africa, NES",GAP,2018,0.791106823,Canary Islands,World,Europe,Southern Europe
+228,NA,NA,Tajikistan,NA,2018,0.530875,Tajikistan,World,Asia,Central Asia
+229,NA,NA,Laos,NA,2018,0.475766667,Laos,World,Asia,South-Eastern Asia
+230,NA,0.555919704,Ships & Aircraft Stores,GAP,2018,NA,World,World,World,NA
+231,NA,NA,Liechtenstein,NA,2018,0.899683333,Switzerland,World,Europe,Western Europe
+232,184,0.680452163,Vatican City State,GAP,2018,0.860425,Italy,World,Europe,Southern Europe
+233,NA,NA,Turkmenistan,NA,2018,0.540203052,Turkmenistan,World,Asia,Central Asia
+234,NA,0.555919704,Unknown Countries,GAP,2018,NA,World,World,World,NA
+235,NA,NA,Burundi,NA,2018,0.379175,Burundi,World,Africa,Eastern Africa
+236,NA,NA,Chad,NA,2018,0.281983333,Chad,World,Africa,Middle Africa
+237,NA,NA,Ethiopia,NA,2018,0.414733333,Ethiopia,World,Africa,Eastern Africa
+238,X146,0.780004222,French Southern Terr.,GAP,2018,0.786542469,French Southern Terr.,World,NA,NA
+239,NA,NA,Nepal,NA,2018,0.56075,Nepal,World,Asia,Southern Asia
+240,NA,NA,Rwanda,NA,2018,0.521391667,Rwanda,World,Africa,Eastern Africa
+241,NA,NA,Uganda,NA,2018,0.479127677,Uganda,World,Africa,Eastern Africa
+242,NA,NA,Zambia,NA,2018,0.488649697,Zambia,World,Africa,Eastern Africa
+243,NA,NA,Zimbabwe,NA,2018,0.452625,Zimbabwe,World,Africa,Eastern Africa
+244,NA,NA,Bhutan,NA,2018,0.657258333,Bhutan,World,Asia,Southern Asia
+245,NA,NA,Burkina Faso,NA,2018,0.440208333,Burkina Faso,World,Africa,Western Africa
+246,X127,0.426584075,St. Vincent & the Grenadines,GAP,2018,0.741977149,Saint Vincent and the Grenadines,World,Latin America and the Caribbean,Caribbean
+247,NA,0.599618859,U.S. Minor Outlying Is.,GAP,2018,0.761400437,American Oceania,World,Oceania,NA
+248,X6,0.481613087,British Terr. in Central Amer.,GAP,2018,0.80350257,British Terr. In Central Amer.,World,Latin America and the Caribbean,Caribbean
+249,NA,NA,Central African Republic,NA,2018,0.2601,Central African Republic,World,Africa,Middle Africa
+250,NA,0.555919704,Unidentified Country,GAP,2018,NA,World,World,World,NA
+251,NA,NA,Comoros,NA,2018,0.536083333,Comoros,World,Africa,Eastern Africa
+252,NA,NA,Kyrgyzstan,NA,2018,0.657941667,Kyrgyzstan,World,Asia,Central Asia
+253,NA,NA,Mali,NA,2018,0.450625,Mali,World,Africa,Western Africa
+254,NA,NA,Mongolia,NA,2018,0.651725,Mongolia,World,Asia,Eastern Asia
+255,NA,0.553302519,"Other Oceania, N.E.S.",NA,2018,0.699536623,"Other Oceania, N.E.S.",World,Oceania,NA
+256,NA,NA,South Sudan,NA,2018,0.243652221,South Sudan,World,Africa,Eastern Africa
+257,X132,0.531008033,Duty Free (Cartagena),GAP,2018,0.706908333,Colombia,World,Latin America and the Caribbean,South America
+258,NA,0.555919704,Duty Free,GAP,2018,NA,World,World,World,NA
+259,NA,0.555919704,"Other Countries, NES",GAP,2018,NA,World,World,World,NA
+260,NA,0.73284431,Not Determin Extra EU Trade,GAP,2018,0.843354625,EU,World,Europe,NA
+261,NA,0.73284431,Not Determin Intra EU Trade,GAP,2018,0.843354625,EU,World,Europe,NA
+262,NA,NA,Afghanistan,NA,2018,0.329658333,Afghanistan,World,Asia,Southern Asia
+263,X184,0.680452163,San Marino,GAP,2018,0.860425,Italy,World,Europe,Southern Europe
+264,NA,0.555919704,International Waters,GAP,2018,NA,World,World,World,NA
+265,NA,0.555919704,Not Determined,GAP,2018,NA,World,World,World,NA
+266,NA,NA,Uzbekistan,NA,2018,0.5955,Uzbekistan,World,Asia,Central Asia
+267,NA,NA,Andorra,GAP,2018,0.899683333,Switzerland,World,Europe,Western Europe
+268,X161,0.686639881,Wallis & Futuna,GAP,2018,0.82461959,Wallis and Futuna,World,Oceania,Polynesia
+269,NA,0.73284431,Extra EU Stores & Provisions,GAP,2018,0.843354625,EU,World,Europe,NA
+270,NA,NA,Swaziland,NA,2018,0.512091667,Eswatini,World,Africa,Southern Africa
+271,NA,NA,Czechoslovakia (Former),NA,2018,0.846641667,Czech Republic,World,Europe,Eastern Europe
+272,NA,0.555919704,Stores & Provisions,GAP,2018,NA,World,World,World,NA
+273,NA,NA,Malawi,NA,2018,0.483491667,Malawi,World,Africa,Eastern Africa
+274,X232,0.590096607,Yugoslavia,GAP,2018,0.759402588,Yugoslavia,World,Europe,Southern Europe
+275,NA,0.5063059,Non-EU Suppression,GAP,2018,NA,Not Europe,World,World,NA
+276,XX,0.554986855,"Other Asia, N.E.S.",GAP,2018,NA,Asia,World,Asia,NA
+277,XX,0.475304617,Pacific Is. (Trust Terr.),GAP,2018,0.659253117,Pacifc Is. (Trust Terr.),World,Oceania,Micronesia
+278,NA,0.764558828,Antarctica,GAP,2018,0.857010714,World,World,World,NA
+279,NA,0.73284431,Intra EU Stores & Provisions,GAP,2018,0.843354625,EU,World,Europe,NA
+280,154,0.530851803,Nieu,GAP,2018,0.620977961,Niue,World,Oceania,Polynesia
+281,NA,0.555919704,Storage Deposits,GAP,2018,NA,World,World,World,NA
+282,31,0.678867141,British Indian Ocean Terr.,GAP,2018,0.708158894,Seychelles,World,Africa,Eastern Africa
+283,NA,NA,Lesotho,NA,2018,0.489325,Lesotho,World,Africa,Southern Africa
+284,NA,0.599618859,Midway Islands,GAP,2018,0.761400437,American Oceania,World,Oceania,NA
+285,76,0.431393873,FTZ-Aegean,GAP,2018,0.6681,Turkey,World,Asia,Western Asia
+286,76,0.431393873,FTZ-Bursa,GAP,2018,0.6681,Turkey,World,Asia,Western Asia
+287,76,0.431393873,FTZ-Menemen Leather,GAP,2018,0.6681,Turkey,World,Asia,Western Asia
+288,79,0.55122009,West Bank,GAP,2018,0.824733333,Israel,World,Asia,Western Asia
+289,NA,0.555919704,Commercial or Military Secret,GAP,2018,NA,World,World,World,NA
+290,129,0.661800583,FTZ-Colon,GAP,2018,0.721591667,Panama,World,Latin America and the Caribbean,Central America
+291,137,0.526603059,FTZ-Ecuador,GAP,2018,0.701983333,Ecuador,World,Latin America and the Caribbean,South America
+292,NA,0.862506716,"Other North America, N.E.S.",GAP,2018,0.844091563,Northern America,World,Americas,Northern America
+293,NA,0.822630138,Austral. Oceania,GAP,2018,0.890753141,Austral. Oceania,World,Oceania,Australia and New Zealand
+294,NA,0.558070997,"Central/South Amer., NES",GAP,2018,0.681776792,"Central/South Amer., NES",World,Latin America and the Caribbean,NA
+295,NA,0.516905234,"Oth. Africa, N.E.S.",GAP,2018,0.53244702,Africa,World,Africa,NA
+296,NA,0.656955183,Oth. West Europe,GAP,2018,0.872033233,West Europe,World,Europe,Western Europe
+298,NA,0.558070997,"Other Latin America, N.E.S.",GAP,2018,0.681776792,"Central/South Amer., NES",World,Latin America and the Caribbean,NA
+299,147,0.686639881,Tahiti,GAP,2018,0.82461959,French Polynesia,World,Oceania,Polynesia
+300,NA,0.555919704,Products Outside Ter. Waters,GAP,2018,NA,World,World,World,NA
+301,X52,0.449194033,Returned Bahrain Goods,GAP,2018,0.691367849,Bahrain,World,Asia,Western Asia
+302,95,0.796185135,S. Georgia & S. Sandwich,GAP,2018,0.848794546,Falkland Islands,World,Europe,Northern Europe
+303,NA,0.454022688,BES Islands,GAP,2018,0.772655007,BES Islands,World,Latin America and the Caribbean,Caribbean
+304,X169,0.540180435,St. Barthelemy,GAP,2018,0.793073808,French Terr. In Central Amer.,World,Latin America and the Caribbean,Caribbean
+305,NA,0.822630138,Heard & McDonald Is.,GAP,2018,0.890753141,Austral. Oceania,World,Oceania,Australia and New Zealand
+306,NA,0.555919704,Products Within Ter. Waters,GAP,2018,NA,World,World,World,NA
+307,NA,0.73284431,European Union,GAP,2018,0.843354625,EU,World,Europe,NA
+308,NA,0.52337802,Other South American Countries,GAP,2018,0.698377565,South America,World,Latin America and the Caribbean,South America
+309,37,0.71451637,St. Brandon & Outer Islands,GAP,2018,0.748016667,Mauritius,World,Africa,Eastern Africa
+310,223,0.865,Svalbard & Jan Mayen,FMI,2018,0.902583333,Norway,World,Europe,Northern Europe
+311,NA,0.572882402,British Terr. in Africa,GAP,2018,0.546565278,British Terr. In Africa,World,Africa,NA
+312,NA,0.555919704,High Seas,GAP,2018,NA,World,World,World,NA
+313,174,0.839956524,Aland Islands,GAP,2018,0.897733333,Finland,World,Europe,Northern Europe
+314,76,0.431393873,FTZ-Mersin,GAP,2018,0.6681,Turkey,World,Asia,Western Asia
+315,54,0.488980073,FTZ-Jebel Ali,GAP,2018,0.743375,United Arab Emirates,World,Asia,Western Asia
+316,223,0.865,Bouvet Island,FMI,2018,0.902583333,Norway,World,Europe,Northern Europe
+317,NA,0.427319994,Other Middle & Near Eastern,GAP,2018,0.662774744,Middle East,World,Asia,Western Asia
+318,NA,0.73284431,EU Suppression,GAP,2018,0.843354625,EU,World,Europe,NA
+319,NA,0.824746299,Other Australian Terr.,GAP,2018,0.893119124,Other Australian Terr.,World,Oceania,Australia and New Zealand
+320,146,0.698413816,British Terr. in Oceania,GAP,2018,0.840010135,Pitcairn,World,Oceania,Polynesia
+321,NA,0.471887917,Dutch Terr. in America,GAP,2018,0.792629302,Netherlands Antilles,World,Latin America and the Caribbean,Caribbean
+322,191,0.505619357,Rajaee Port Special Econ. Zone,GAP,2018,0.639591667,Iran,World,Asia,Southern Asia
+323,NA,0.555919704,Free Trade Zones,GAP,2018,NA,World,World,World,NA
+324,NA,0.599618859,American Oceania,GAP,2018,0.761400437,American Oceania,World,Oceania,NA
+325,191,0.505619357,FTZ-Chabahar,GAP,2018,0.639591667,Iran,World,Asia,Southern Asia
+326,NA,0.740199546,"Other Europe, N.E.S.",GAP,2018,0.831417816,Europe,World,Europe,NA
