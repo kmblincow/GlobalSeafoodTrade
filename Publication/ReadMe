@@ -9,6 +9,7 @@ OHIRegnID.csv - region_id key
 spi_res.csv - SPI resilience data coded by region_id
 FullFMIGapFill.csv - all FMI gap filling data combined
 FMI_GTAMatch.csv - full list of FMI values matched to GTA reporters and partners
+IntermediateFMIiCalc2.xlsx - data entered into supplementary table on calculations made for irregular trade partners
 FAO_FMI_class.csv - FAO data with corresponding FMI values added, proportion of production and proportion of imports calculated
 Final_FAOFMI_prop.csv - consumption, production, and import FMIs combined
 Final_FAOFMI_prop_Wild.csv - consumption, production, and import FMIs combined for wild capture
@@ -35,7 +36,6 @@ FMI_GapFilling.R - aligns FMI country names with GTA country names and expands g
 
 Import_FMI_calculation.R - calculate import FMI for each Reporter based on their Partners relative production (generates Import_FMI_prop.csv)
 Import_FMI_calculation_Wild.R - calculate import FMI for each Reporter based on their Partners relative production of wild capture products (generates Import_FMI_prop_Wild.csv)
-IntermediateFMIiCalc2.csv - data entered into supplementary table on calculations made for irregular trade partners
 
 Consumption_FMI_Calculation.R - calculate the consumption FMI using three different methods (generates Final_FAOFMI_prop.csv)
 Consumption_FMI_Calculation_Wild.R - calculate the consumption FMI using three different methods using wild capture data (generates Final_FAOFMI_prop_Wild.csv)
