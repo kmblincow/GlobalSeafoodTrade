@@ -46,9 +46,9 @@ Q1_FMIpvFMIc_Wild.R - calculates differences between FMIc and FMIp, runs linear 
 Q3_ReporterCommunityAnalysis.R - find and plot the countries that account for the most imports/exports (generates Fig. 3)
 Q3_ReporterCommunityAnalysis_Wild.R - find and plot the countries that account for the most imports/exports (generates Fig. 3_Wild)
 
-USImportsMapFigureCode_USCentered_Top25.R - generates the US centered map of imports and associated calculations (Fig. 3a)
-USImportsMapFigureCode_USCentered_Top25_Wild.R - generates the US centered map of imports and associated calculations with Wild capture data (Fig. 3a - Wild)
-ChinaExportsMapFigureCode_ChinaCentered_Top25.R - generates the China centered map of exports and associated calculations (Fig. 3b)
-ChinaExportsMapFigureCode_ChinaCentered_Top25_Wild.R - generates the China centered map of exports and associated calculations with wild capture data (Fig. 3b - Wild)
+USImportsMapFigureCode_USCentered_Top25Map.R - generates the US centered map of imports and associated calculations (Fig. 3a)
+USImportsMapFigureCode_USCentered_Top25Map_Wild.R - generates the US centered map of imports and associated calculations with Wild capture data (Fig. 3a - Wild)
+ChinaExportsMapFigureCode_ChinaCentered_Top25Map.R - generates the China centered map of exports and associated calculations (Fig. 3b)
+ChinaExportsMapFigureCode_ChinaCentered_Top25Map_Wild.R - generates the China centered map of exports and associated calculations with wild capture data (Fig. 3b - Wild)
 
 FAOvGTAplot.R - generates plot comparing FAO and GTA imports
